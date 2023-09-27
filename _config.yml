@@ -1,6 +1,5 @@
 theme: minima
 title: Home | JWForever5504
-description: JWForever5504's Homepage
 header_pages:
   - home.md
   - downloads.md
