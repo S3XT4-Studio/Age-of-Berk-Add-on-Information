@@ -4,8 +4,6 @@ header_pages:
   - home.md
   - downloads.md
   - about_me.md
-minima:
-  social_links:
-    - { platform: youtube, user_url: "https://www.youtube.com/channel/UCW_dsmLJe5dIrVw34y9IOew" }
-    - platform: mcpedl
-      user_url: "https://mcpedl.com/user/jwforever5504"
+social_links:
+  - { platform: youtube, user_url: "https://www.youtube.com/channel/UCW_dsmLJe5dIrVw34y9IOew" }
+  - { platform: mcpedl, user_url: "https://mcpedl.com/user/jwforever5504" }
