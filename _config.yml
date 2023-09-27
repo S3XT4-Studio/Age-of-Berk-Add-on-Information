@@ -1,5 +1,3 @@
 remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: The home page of JWForever5504 (aka: channel_name)!
 description: Browse the site to see all my add-ons and other resources!
