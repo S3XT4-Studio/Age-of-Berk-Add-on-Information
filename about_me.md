@@ -1,7 +1,6 @@
 ---
 title: About Me
-layout: template
-filename: about_me.md
+permalink: /about
 ---
 
 Hello there!
