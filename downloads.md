@@ -1,5 +1,7 @@
 ---
 title: Add-ons and Maps
+layout: template
+filename: downloads.md
 ---
 
 ## Add-ons
