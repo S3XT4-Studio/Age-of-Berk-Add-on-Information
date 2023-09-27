@@ -1,3 +1,5 @@
-# Home
-
-### The Homepage of JWForever5504, also known as channel_name!
+---
+title: Home
+layout: template
+filename: index.md
+--- 
