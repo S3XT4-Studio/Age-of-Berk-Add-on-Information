@@ -1,4 +1,4 @@
-![Cotton-Top Tamarin](https://github.com/JWForever5504/jwforever/assets/127066569/772feee6-9ffa-4a54-96a5-14560524cddb)--- 
+--- 
 title: Links
 permalink: /links
 --- 
