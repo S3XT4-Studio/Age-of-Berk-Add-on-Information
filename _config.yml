@@ -1,3 +1,5 @@
-theme: minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: The home page of JWForever5504, also known as channel_name!
 description: Browse the site to see all my add-ons and other resources!
