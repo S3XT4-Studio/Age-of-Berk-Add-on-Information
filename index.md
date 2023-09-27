@@ -1,3 +1,3 @@
-## JWForever5504
-### Home
-Browse to find downloads and other resources!
+# Home
+
+### The Homepage of JWForever5504, also known as channel_name!
