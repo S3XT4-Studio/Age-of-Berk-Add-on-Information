@@ -1,6 +1,7 @@
 theme: minima
 title: Home | JWForever5504
 header_pages:
-  - home.md
+  - index.md
+  - links.md
   - downloads.md
   - about_me.md
