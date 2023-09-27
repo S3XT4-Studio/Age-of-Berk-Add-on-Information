@@ -1,4 +1,3 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-title:  Home | JWForever5504
+theme: jekyll-theme-minimal
+title: Home | JWForever5504
+description: JWForever5504's Homepage
