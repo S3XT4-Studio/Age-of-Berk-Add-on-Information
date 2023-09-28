@@ -1,5 +1,9 @@
-theme: minima
 title: Home | JWForever5504
+
+theme: minima
+
+base_url: /home
+
 header_pages:
   - index.md
   - links.md
