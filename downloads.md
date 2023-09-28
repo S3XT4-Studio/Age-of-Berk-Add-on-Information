@@ -1,0 +1,45 @@
+---
+title: Add-ons and Maps
+permalink: /downloads
+---
+
+## Add-ons
+
+<details>
+<summary>Free Camera</summary>
+<br>
+This add-on allows you to switch into Free Camera mode, similar to Freecam for Java Edition. In this mode, you can fly around within your render distance independent of your player!
+<br>
+<a href="https://youtu.be/oX_L6tGGZmA">Showcase</a>
+<br>
+<a href="https://github.com/JWForever5504/jwforever/releases/download/Free_Camera/free_camera.mcaddon">Download</a>
+<br>
+<a href="https://mcpedl.com/free-camera/">MCPEDL - More Info</a>
+
+</details>
+ 
+<details>
+<summary>Death Race for Bedrock</summary>
+<br>
+
+This add-on creates a race to see who can die in a randomly assigned way first. Great fun for a group of friends!
+<br>
+<a href="https://github.com/JWForever5504/jwforever/releases/download/Death_Race/death_race.mcaddon">Download</a>
+<br>
+<a href="https://mcpedl.com/death-race-for-bedrock/">MCPEDL - More Info</a>
+
+</details>
+
+## Maps
+<details>
+<summary>Platformer Game</summary>
+<br>
+This map is a simple platformer game made using commands and a resource pack.
+
+<br>
+<a href="https://youtu.be/cX0lyl_CfTI">Showcase</a>
+<br>
+<a href="https://github.com/JWForever5504/jwforever/releases/download/Platformer_Game/platformer_game.mcworld">Download</a>
+<br>
+MCPEDL Page Coming Soon
+</details>
