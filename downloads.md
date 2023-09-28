@@ -15,7 +15,7 @@ This add-on allows you to switch into Free Camera mode, similar to Freecam for J
 
 [Download](https://github.com/JWForever5504/jwforever/releases/download/Free_Camera/free_camera.mcaddon)
 
-[MCPEDL (More info)](https://mcpedl.com/free-camera/)
+[MCPEDL- More info](https://mcpedl.com/free-camera/)
 </details>
  
 <details>
@@ -26,7 +26,7 @@ This add-on creates a race to see who can die in a randomly assigned way first. 
 
 [Download](https://github.com/JWForever5504/jwforever/releases/download/Death_Race/death_race.mcaddon)
 
-[MCPEDL (More info)](https://mcpedl.com/death-race-for-bedrock/)
+[MCPEDL - More info](https://mcpedl.com/death-race-for-bedrock/)
 </details>
 
 ## Maps
