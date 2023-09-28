@@ -40,7 +40,7 @@ This map is a simple platformer game made using commands and a resource pack.
 
 #### Showcase:
 
-<a href="https://youtu.be/cX0lyl_CfTI "Platformer Game Map">Download</a>
+<a href="https://youtu.be/cX0lyl_CfTI">Showcase</a>
 
 <a href="https://github.com/JWForever5504/jwforever/releases/download/Platformer_Game/platformer_game.mcworld">Download</a>
 
