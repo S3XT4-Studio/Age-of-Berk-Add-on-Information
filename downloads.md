@@ -12,13 +12,11 @@ This add-on allows you to switch into Free Camera mode, similar to Freecam for J
 
 #### Showcase:
 
-[![Showcase](http://img.youtube.com/vi/oX_L6tGGZmA/0.jpg)](https://youtu.be/oX_L6tGGZmA "Free Camera Add-on")
+<a href="https://youtu.be/oX_L6tGGZmA">Showcase</a>
 
+<a href="https://github.com/JWForever5504/jwforever/releases/download/Free_Camera/free_camera.mcaddon">Download</a>
 
-[Download](https://github.com/JWForever5504/jwforever/releases/download/Free_Camera/free_camera.mcaddon)
-
-
-[MCPEDL- More info](https://mcpedl.com/free-camera/)
+<a href="https://mcpedl.com/free-camera/">MCPEDL - More Info</a>
 
 </details>
  
