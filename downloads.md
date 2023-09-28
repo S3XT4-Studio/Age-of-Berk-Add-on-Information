@@ -9,6 +9,7 @@ permalink: /downloads
 <br>
 This add-on allows you to switch into Free Camera mode, similar to Freecam for Java Edition. In this mode, you can fly around within your render distance independent of your player!
 
+
 #### Showcase:
 
 [![Showcase](http://img.youtube.com/vi/oX_L6tGGZmA/0.jpg)](https://youtu.be/oX_L6tGGZmA "Free Camera Add-on")
