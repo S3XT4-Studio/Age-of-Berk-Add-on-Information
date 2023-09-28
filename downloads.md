@@ -26,11 +26,10 @@ This add-on allows you to switch into Free Camera mode, similar to Freecam for J
 
 This add-on creates a race to see who can die in a randomly assigned way first. Great fun for a group of friends!
 
+<a href="https://github.com/JWForever5504/jwforever/releases/download/Death_Race/death_race.mcaddon">Download</a>
 
-[Download](https://github.com/JWForever5504/jwforever/releases/download/Death_Race/death_race.mcaddon)
+<a href="https://mcpedl.com/death-race-for-bedrock/">MCPEDL - More Info</a>
 
-
-[MCPEDL - More info](https://mcpedl.com/death-race-for-bedrock/)
 </details>
 
 ## Maps
@@ -41,11 +40,9 @@ This map is a simple platformer game made using commands and a resource pack.
 
 #### Showcase:
 
-[![Showcase](http://img.youtube.com/vi/cX0lyl_CfTI/0.jpg)](https://youtu.be/cX0lyl_CfTI "Platformer Game Map")
+<a href="https://youtu.be/cX0lyl_CfTI "Platformer Game Map">Download</a>
 
-
-[Download](https://github.com/JWForever5504/jwforever/releases/download/Platformer_Game/platformer_game.mcworld)
-
+<a href="https://github.com/JWForever5504/jwforever/releases/download/Platformer_Game/platformer_game.mcworld">Download</a>
 
 MCPEDL Page Coming Soon
 </details>
