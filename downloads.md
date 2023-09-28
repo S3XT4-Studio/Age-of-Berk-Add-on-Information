@@ -10,7 +10,9 @@ permalink: /downloads
 <br>
 This add-on allows you to switch into Free Camera mode, similar to Freecam for Java Edition. In this mode, you can fly around within your render distance independent of your player!
 <br>
-<iframe width="1280" height="699" src="https://www.youtube.com/embed/oX_L6tGGZmA" title="FREE CAMERA Add-on for Minecraft Bedrock 1.20.30 | DOWNLOAD in Description" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="350" 
+src="https://www.youtube.com/embed/oX_L6tGGZmA" title="FREE CAMERA Add-on for Minecraft Bedrock 1.20.30 | DOWNLOAD in Description" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
 <br>
 <a href="https://github.com/JWForever5504/jwforever/releases/download/Free_Camera/free_camera.mcaddon">Download</a>
 <br>
