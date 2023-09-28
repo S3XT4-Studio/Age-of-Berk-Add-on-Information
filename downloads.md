@@ -7,11 +7,10 @@ permalink: /downloads
 
 <details>
 <summary>Free Camera</summary>
-<br>
 This add-on allows you to switch into Free Camera mode, similar to Freecam for Java Edition. In this mode, you can fly around within your render distance independent of your player!
 <br>
-<a href="https://youtu.be/oX_L6tGGZmA">Showcase</a>
-<br>
+ <iframe width="1280" height="699" src="https://www.youtube.com/embed/oX_L6tGGZmA" title="FREE CAMERA Add-on for Minecraft Bedrock 1.20.30 | DOWNLOAD in Description" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <br>
 <a href="https://github.com/JWForever5504/jwforever/releases/download/Free_Camera/free_camera.mcaddon">Download</a>
 <br>
 <a href="https://mcpedl.com/free-camera/">MCPEDL - More Info</a>
@@ -20,8 +19,6 @@ This add-on allows you to switch into Free Camera mode, similar to Freecam for J
  
 <details>
 <summary>Death Race for Bedrock</summary>
-<br>
-
 This add-on creates a race to see who can die in a randomly assigned way first. Great fun for a group of friends!
 <br>
 <a href="https://github.com/JWForever5504/jwforever/releases/download/Death_Race/death_race.mcaddon">Download</a>
@@ -33,11 +30,10 @@ This add-on creates a race to see who can die in a randomly assigned way first. 
 ## Maps
 <details>
 <summary>Platformer Game</summary>
-<br>
 This map is a simple platformer game made using commands and a resource pack.
 
 <br>
-<a href="https://youtu.be/cX0lyl_CfTI">Showcase</a>
+<iframe width="1280" height="699" src="https://www.youtube.com/embed/cX0lyl_CfTI" title="2D PLATFORMER GAME for Minecraft Bedrock | Download in Description" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <a href="https://github.com/JWForever5504/jwforever/releases/download/Platformer_Game/platformer_game.mcworld">Download</a>
 <br>
