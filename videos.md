@@ -2,6 +2,8 @@
 title: Latest Videos
 permalink: /videos
 ---
-<iframe>
-src="htpps://www.youtube.com/embed?listType=playlist&list=UCW_dsmLJe5dIrVw34y9IOew"
-</iframe>
+<div class="videoWrapper">
+  <iframe
+    src="https://www.youtube.com/embed/?listType=user_uploads&list=@enter_channel_name_here" width="480" height="400">
+  </iframe>
+</div>
