@@ -8,7 +8,7 @@ minima:
     
 header_pages:
   - index.md
-  - videos.html
+  - videos.md
   - downloads.md
   - about_me.md
   
