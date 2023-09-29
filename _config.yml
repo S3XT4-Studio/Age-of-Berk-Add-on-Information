@@ -1,7 +1,9 @@
 title: Home | JWForever5504
 theme: minima
 base_url: /home
-date_format: "%b %d, %y"
+
+minima:
+    date_format: "%b %d, %y"
     
 header_pages:
   - index.md
@@ -12,5 +14,4 @@ header_pages:
 google_analytics: G-44T3X0M2KK
 
 youtube_username: "channel/UCW_dsmLJe5dIrVw34y9IOew"
-
 mcpedl_username: "user/jwforever5504"
