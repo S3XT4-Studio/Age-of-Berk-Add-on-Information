@@ -11,9 +11,4 @@ header_pages:
   
 google_analytics: G-44T3X0M2KK
 
-
-minima:
-  skin: dark
-  social_links:
-    - { platform: youtube,  user_url: "https://www.youtube.com/@enter_channel_name_here" }
-    - { platform: mcpedl, user_url: "https://mcpedl.com/user/jwforever5504/" }
+youtube_username: @enter_channel_name_here
