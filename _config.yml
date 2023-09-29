@@ -2,11 +2,6 @@ title: Home | JWForever5504
 theme: minima
 base_url: /home
 date_format: "%b %d, %y"
-
-skin: dark
-social_links:
-  - { platform: youtube,  user_url: "https://www.youtube.com/@enter_channel_name_here" }
-  - { platform: mcpedl, user_url: "https://mcpedl.com/user/jwforever5504/" }
     
 header_pages:
   - index.md
@@ -15,3 +10,10 @@ header_pages:
   - about_me.md
   
 google_analytics: G-44T3X0M2KK
+
+
+minima:
+  skin: dark
+  social_links:
+    - { platform: youtube,  user_url: "https://www.youtube.com/@enter_channel_name_here" }
+    - { platform: mcpedl, user_url: "https://mcpedl.com/user/jwforever5504/" }
