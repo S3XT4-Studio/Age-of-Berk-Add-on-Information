@@ -21,6 +21,10 @@ This add-on allows you to switch into Free Camera mode, similar to Freecam for J
 <summary>Death Race for Bedrock</summary>
 This add-on creates a race to see who can die in a randomly assigned way first. Great fun for a group of friends!
 <br>
+ <iframe width="640" height="350" src="https://www.youtube.com/embed/oX_L6tGGZmA" title="DEATH RACE for Minecraft Bedrock Showcase | DOWNLOAD in Description"](https://www.youtube.com/embed/O1C7sdeK0No?list=PLj5v5pB8v_zgViVBRKI-jkxYAqKpQhunD" title="DEATH RACE for Minecraft Bedrock Showcase | DOWNLOAD in Description" ) frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <br>
+
+ <iframe width="1271" height="715" src="https://www.youtube.com/embed/O1C7sdeK0No?list=PLj5v5pB8v_zgViVBRKI-jkxYAqKpQhunD" title="DEATH RACE for Minecraft Bedrock Showcase | DOWNLOAD in Description" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <a href="https://github.com/JWForever5504/jwforever/releases/download/Death_Race/death_race.mcaddon">Download</a>
 <br>
 <a href="https://mcpedl.com/death-race-for-bedrock/">MCPEDL - More Info</a>
