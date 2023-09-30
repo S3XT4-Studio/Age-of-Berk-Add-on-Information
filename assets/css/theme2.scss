@@ -4,5 +4,5 @@
 
 @charset "utf-8";
 
-@import "minima/skins/{{ site.skin2 | default: 'classic' }}"; // skin
+@import "minima/skins/{{ site.minima.skin2 | classic: 'classic' }}"; // skin
 @import "minima/initialize"; // main partials
