@@ -1,4 +1,5 @@
 <ul class="social-media-list">
-  {%- if site.youtube_username -%}<li><a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/youtube.svg' | relative_url }}"></use></svg> <span class="username">{{ site.youtube_username| escape }}</span></a></li>{%- endif -%}
-  {%- if site.mcpedl_username -%}<li><a href="https://mcpedl.com/{{ site.mcpedl_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/mcpedl.svg' | relative_url }}"></use></svg> <span class="username">{{ site.mcpedl_username| escape }}</span></a></li>{%- endif -%}
+{%- for entry in site.minima.social_links -%}
+  {%- include social-item.html item = entry -%}
+{%- endfor -%}
 </ul>
