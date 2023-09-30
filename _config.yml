@@ -5,10 +5,10 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
-    date_format: "%b %d, %y"
-    social_links:
-        - { platform: youtube,  user_url: "https://www.youtube.com/@enter_channel_name_here", title: "channel_name on YouTube" }
-        - { platform: mcpedl, user_url: "https://mcpedl.com/user/jwforever5504/", title: "JWForever5504 on MCPEDL" }
+  date_format: "%b %d, %y"
+  social_links:
+    - { platform: youtube,  user_url: "https://www.youtube.com/@enter_channel_name_here", title: "channel_name on YouTube" }
+    - { platform: mcpedl, user_url: "https://mcpedl.com/user/jwforever5504/", title: "JWForever5504 on MCPEDL" }
     
 header_pages:
     - index.md
