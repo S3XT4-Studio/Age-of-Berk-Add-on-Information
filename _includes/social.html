@@ -1,4 +1,4 @@
 <ul class="social-media-list">
-  <li><a href="https://mcpedl.com/user/jwforever5504/"><svg class="svg-icon"><use xlink:href="{{ '/assets/mcpedl.png' | relative_url }}"></use></svg></a></li>
-  <li><a href="https://youtube.com/channel/UCW_dsmLJe5dIrVw34y9IOew/"><svg class="svg-icon"><use xlink:href="{{ '/assets/youtube.png' | relative_url }}"></use></svg></a></li>
+  {%- if site.youtube_username -%}<li><a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/youtube.svg' | relative_url }}"></use></svg> <span class="username">{{ site.youtube_username| escape }}</span></a></li>{%- endif -%}
+  {%- if site.mcpedl_username -%}<li><a href="https://mcpedl.com/{{ site.mcpedl_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/mcpedl.svg' | relative_url }}"></use></svg> <span class="username">{{ site.mcpedl_username| escape }}</span></a></li>{%- endif -%}
 </ul>
