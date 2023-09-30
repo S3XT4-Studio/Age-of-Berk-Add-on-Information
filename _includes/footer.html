@@ -2,16 +2,9 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
   <div class="wrapper">
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
-    <div class="footer-col footer-col-1">
-      <a href="https://mcpedl.com/user/jwforever5504/">
-        <svg class="svg-icon">
-          <use xlink:href="/assets/mcpedl.svg"></use>
-        </svg></a>
-      <a href="https://youtube.com/channel/UCW_dsmLJe5dIrVw34y9IOew/"><svg class="svg-icon">
-          <use xlink:href="/assets/youtube.svg"></use>
-        </svg></a>
-    </div>
-
+      <div class="footer-col footer-col-1">
+        {%- include social.html -%}
+      </div>
     <div class="footer-col footer-col-3">
       <p>Welcome to my website! Here you will find links and downloads of my content. Have fun!</p>
     </div>
