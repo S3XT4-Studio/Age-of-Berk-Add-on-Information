@@ -5,6 +5,9 @@ base_url: /home
 
 minima:
     date_format: "%b %d, %y"
+  social_links:
+    - { platform: youtube,  user_url: "https://www.youtube.com/@enter_channel_name_here" }
+    - { platform: mcpedl, user_url: "https://mcpedl.com/user/jwforever5504/" }
     
 header_pages:
   - index.md
@@ -13,6 +16,3 @@ header_pages:
   - about_me.md
   
 google_analytics: G-44T3X0M2KK
-
-youtube_username: channel/UCW_dsmLJe5dIrVw34y9IOew
-mcpedl_username: user/jwforever5504
