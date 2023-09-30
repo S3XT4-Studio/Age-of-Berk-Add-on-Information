@@ -6,8 +6,8 @@ remote_theme: jekyll/minima
 minima:
     date_format: "%b %d, %y"
     social_links:
-        - { platform: youtube,  user_url: "https://www.youtube.com/@enter_channel_name_here" }
-        - { platform: mcpedl, user_url: "https://mcpedl.com/user/jwforever5504/" }
+        - { platform: youtube,  user_url: "https://www.youtube.com/@enter_channel_name_here", title: "channel_name on YouTube" }
+        - { platform: mcpedl, user_url: "https://mcpedl.com/user/jwforever5504/", title: "JWForever5504 on MCPEDL" }
     
 header_pages:
     - index.md
