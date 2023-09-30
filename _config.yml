@@ -3,8 +3,10 @@ description: Welcome to my website! Here you will find links and downloads of my
 
 remote_theme: jekyll/minima
 
+minimal_mistakes_skin: "default"
+minimal_mistakes_skin2: "dark"
+
 minima:
-  skin: dark
   date_format: "%b %d, %y"
   social_links:
     - { platform: youtube,  user_url: "https://www.youtube.com/@enter_channel_name_here", title: "channel_name on YouTube" }
