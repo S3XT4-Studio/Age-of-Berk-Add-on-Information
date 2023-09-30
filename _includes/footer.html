@@ -3,7 +3,10 @@
   <div class="wrapper">
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
       <div class="footer-col footer-col-1">
-        {%- include social.html -%}
+        <ul class="social-media-list">
+          {%- if site.youtube_username -%}<li><a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/youtube.svg' | relative_url }}"></use></svg> <span class="username">{{ site.youtube_username| escape }}</span></a></li>{%- endif -%}
+          {%- if site.mcpedl_username -%}<li><a href="https://mcpedl.com/{{ site.mcpedl_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/mcpedl.svg' | relative_url }}"></use></svg> <span class="username">{{ site.mcpedl_username| escape }}</span></a></li>{%- endif -%}
+        </ul>
       </div>
     <div class="footer-col footer-col-3">
       <p>Welcome to my website! Here you will find links and downloads of my content. Have fun!</p>
