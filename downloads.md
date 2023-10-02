@@ -41,5 +41,6 @@ This map is a simple platformer game made using commands and a resource pack.
 <br>
 <a href="https://github.com/JWForever5504/jwforever/releases/download/Platformer_Game/platformer_game.mcworld">Download</a>
 <br>
-MCPEDL Page Coming Soon
+
+<a href="https://mcpedl.com/platformer-game-with-camera-command/">MCPEDL - More Info</a>
 </details>
