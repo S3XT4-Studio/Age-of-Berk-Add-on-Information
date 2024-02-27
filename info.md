@@ -16,6 +16,7 @@ Most dragons can be tamed by feeding them cod or salmon, but there are exception
 <br> 
 - Some dragons eat different foods based on where they live. 
 <br> 
+<br> 
 Check the Book of Dragons if you are unsure of how to train a specific dragon.
  
 </details>
@@ -24,15 +25,19 @@ Check the Book of Dragons if you are unsure of how to train a specific dragon.
 <summary>Riding</summary>
 Most tameable dragons can be ridden and flown
 <br> 
+<br> 
 To mount a dragon, interact with it.
+<br> 
 <br> 
 When on a dragon, you can hold down the jump button to travel up and let go to travel down.
 <br> 
 Use your normal movement controls to move other directions.
 <br> 
+<br> 
 While riding a dragon, you can make it breathe fire.
 <br> 
 - On touch controls, tap the circle in front of you when it turns green to shoot fire in the direction you are looking
+<br> 
 - On keyboard/mouse or console controller, attack to shoot fire in the direction you are looking
 <br> 
 </details>
