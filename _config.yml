@@ -1,17 +1,19 @@
-title: Home | Age of Berk Add-on
-description: Welcome to the homepage of the Age of Berk add-on for Minecraft Bedrock Edition.
+title: Home | JWForever5504
+description: Welcome to my website! Here you will find links and downloads of my content. Have fun!
 
 remote_theme: jekyll/minima
 
 minima:
-    date_format: "%d %b, %y"
-    social_links:
-        - { platform: youtube,  user_url: "https://www.youtube.com/@enter_channel_name_here", title: "channel_name on YouTube" }
-        - { platform: mcpedl, user_url: "https://mcpedl.com/user/jwforever5504/", title: "JWForever5504 on MCPEDL" }
+  skin: "dark"
+  date_format: "%b %d, %y"
+  social_links:
+    - { platform: youtube,  user_url: "https://www.youtube.com/@enter_channel_name_here", title: "channel_name on YouTube" }
+    - { platform: mcpedl, user_url: "https://mcpedl.com/user/jwforever5504/", title: "JWForever5504 on MCPEDL" }
     
 header_pages:
     - index.md
     - downloads.md
+    - videos.md
     - about_me.md
   
 google_analytics: G-44T3X0M2KK
