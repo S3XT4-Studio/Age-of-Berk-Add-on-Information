@@ -43,7 +43,6 @@ While riding a dragon, you can make it breathe fire.
 </details>
 
 <br> 
-</details>
 <details>
 <summary>Sitting</summary>
 Every tameable dragon can sit. When sitting, a dragon will not follow you.
