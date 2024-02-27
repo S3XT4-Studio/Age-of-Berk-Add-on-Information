@@ -3,10 +3,8 @@ title: Links
 permalink: /links
 --- 
 
-Check me out on different platforms!
+Check the creators out on different platforms!
 
-![YouTube](assets/youtube.png "YouTube") [YouTube](https://www.youtube.com/channel/UCW_dsmLJe5dIrVw34y9IOew)
+![JWForever5504's YouTube](assets/youtube.png "JWForever5504's YouTube") [YouTube](https://www.youtube.com/channel/UCW_dsmLJe5dIrVw34y9IOew)
 
-![MCPEDL](assets/mcpedl.png "YouTube") [MCPEDL](https://mcpedl.com/user/jwforever5504/)
-
-![Banner](assets/links_banner.png)
+![S3Xt4's YouTube](assets/youtube.png "S3Xt4's YouTube") [YouTube](https://www.youtube.com/@S3XT4ofc)
