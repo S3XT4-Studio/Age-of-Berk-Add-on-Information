@@ -18,6 +18,7 @@ Most dragons can be tamed by feeding them cod or salmon, but there are exception
 <br> 
 Check the Book of Dragons if you are unsure of how to train a specific dragon.
  
+</details>
 <br> 
 <details>
 <summary>Riding</summary>
