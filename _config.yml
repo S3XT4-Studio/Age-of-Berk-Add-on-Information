@@ -10,4 +10,5 @@ minima:
     
 header_pages:
     - index.md
+    - info.md
     - about_us.md
