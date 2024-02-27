@@ -3,43 +3,75 @@ title: Add-ons and Maps
 permalink: /downloads
 ---
 
-## Add-ons
+## Dragon Behavior
 
 <details>
-<summary>Free Camera</summary>
-This add-on allows you to switch into Free Camera mode, similar to Freecam for Java Edition. In this mode, you can fly around within your render distance independent of your player!
-<br>
- <iframe width="640" height="350" src="https://www.youtube.com/embed/oX_L6tGGZmA" title="FREE CAMERA Add-on for Minecraft Bedrock 1.20.30 | DOWNLOAD in Description" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- <br>
-<a href="https://github.com/JWForever5504/jwforever/releases/download/Free_Camera/free_camera.mcaddon">Download</a>
-<br>
-<a href="https://mcpedl.com/free-camera/">MCPEDL - More Info</a>
-
-</details>
+<summary>Training</summary>
+Almost every dragon can be trained, but it is different for every dragon.
+<br> 
+<br> 
+Most dragons can be tamed by feeding them cod or salmon, but there are exceptions. 
+<br> 
+- Boulder Class dragons can be tamed with a variety of rocks, instead of fish. However, the type of rock depends on the dragon.
+<br> 
+- Some dragons eat different foods based on where they live. 
+<br> 
+Check the Book of Dragons if you are unsure of how to train a specific dragon.
  
 <details>
-<summary>Death Race for Bedrock</summary>
-This add-on creates a race to see who can die in a randomly assigned way first. Great fun for a group of friends!
-<br>
- <iframe width="640" height="350" src="https://www.youtube.com/embed/oX_L6tGGZmA" title="DEATH RACE for Minecraft Bedrock Showcase | DOWNLOAD in Description"](https://www.youtube.com/embed/O1C7sdeK0No?list=PLj5v5pB8v_zgViVBRKI-jkxYAqKpQhunD" title="DEATH RACE for Minecraft Bedrock Showcase | DOWNLOAD in Description" ) frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- <br>
+<summary>Riding</summary>
+Most tameable dragons can be ridden and flown
+<br> 
+<br> 
+To mount a dragon, interact with it.
+<br> 
+When on a dragon, you can hold down the jump button to travel up and let go to travel down.
+<br> 
+Use your normal movement controls to move other directions.
+<br> 
+While riding a dragon, you can make it breathe fire.
+<br> 
+- On touch controls, tap the circle in front of you when it turns green to shoot fire in the direction you are looking
+- On keyboard/mouse or console controller, attack to shoot fire in the direction you are looking
+<br> 
 
- <iframe width="1271" height="715" src="https://www.youtube.com/embed/O1C7sdeK0No?list=PLj5v5pB8v_zgViVBRKI-jkxYAqKpQhunD" title="DEATH RACE for Minecraft Bedrock Showcase | DOWNLOAD in Description" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<a href="https://github.com/JWForever5504/jwforever/releases/download/Death_Race/death_race.mcaddon">Download</a>
-<br>
-<a href="https://mcpedl.com/death-race-for-bedrock/">MCPEDL - More Info</a>
 
 </details>
 
-## Maps
+</details>
 <details>
-<summary>Platformer Game</summary>
-This map is a simple platformer game made using commands and a resource pack.
+<summary>Sitting</summary>
+Every tameable dragon can sit. When sitting, a dragon will not follow you.
+<br> 
+<br> 
+To make a dragon sit, you must be crouching/sneaking. You then interact with them, as if you were going to ride them.
+<br> 
+The dragon will play a sitting animation, and will be unable to move, whether under its own control or yours.
 
+</details>
+
+## Individual Dragons
+
+<details>
+<summary>Deadly Nadder</summary>
 <br>
- <iframe width="640" height="350" src="https://www.youtube.com/embed/cX0lyl_CfTI" title="2D PLATFORMER GAME for Minecraft Bedrock | Download in Description" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+This Tracker Class dragon is protective, but can be tamed at any age using the following foods:
 <br>
-<a href="https://github.com/JWForever5504/jwforever/releases/download/Platformer_Game/platformer_game.mcworld">Download</a>
+ - Raw Cod
 <br>
-MCPEDL Page Coming Soon
+ - Raw Salmon
+<br>
+ - Raw Chicken
+<br>
+ - Cooked Chicken
+<br>
+<br>
+Deadly Nadders love Cooked Chicken, and can fly almost twice as fast for a short time after being fed it.
+<br>
+<br>
+Nadders can shoot sustained blasts of fire when ridden. The fire is hot enough to set most materials ablaze.
+<br>
+<br>
+This dragon can be found in Dragon Cages
+
 </details>
