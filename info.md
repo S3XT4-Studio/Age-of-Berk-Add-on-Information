@@ -3,6 +3,8 @@ title: Information
 permalink: /info
 ---
 
+Please report bugs at [this link](https://docs.google.com/forms/d/1Wi3go3pZFQaGHhHvkKgHEykInerdWlRazn41bpYdGGI/edit#responses), after checking the list of known bugs [here](/bugs.md).
+
 ## Dragon Behavior
 
 <details>
