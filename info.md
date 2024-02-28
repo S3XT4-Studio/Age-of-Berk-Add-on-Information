@@ -20,7 +20,6 @@ Most dragons can be tamed by feeding them cod or salmon, but there are exception
 Check the Book of Dragons if you are unsure of how to train a specific dragon.
  
 </details>
-<br> 
 <details>
 <summary>Riding</summary>
 Most tameable dragons can be ridden and flown
@@ -42,7 +41,6 @@ While riding a dragon, you can make it breathe fire. There is a 10 second cooldo
 <br> 
 </details>
 
-<br> 
 <details>
 <summary>Sitting</summary>
 Every tameable dragon can sit. When sitting, a dragon will not follow you.
@@ -79,7 +77,6 @@ Nadders can shoot sustained blasts of fire when ridden. The fire is hot enough t
 This dragon can be found in Dragon Cages
 
 </details>
-<br> 
 
 <details>
 <summary>Gronckle</summary>
@@ -109,7 +106,6 @@ Nadders can shoot lava blasts when ridden. The lava blast is hot enough to set m
 This dragon can be found in Dragon Cages
 
 </details>
-<br> 
 
 <details>
 <summary>Monstrous Nightmare</summary>
@@ -124,7 +120,7 @@ This Stoker Class dragon is protective, but can be tamed at any age using the fo
 Nightmares can shoot sustained blasts of fire when ridden. The fire is hot enough to set most materials ablaze.
 
 </details>
-<br> 
+
 <details>
 <summary>Hideous Zippleback</summary>
 <br>
@@ -141,4 +137,39 @@ Zipplebacks can shoot gas explosions when ridden. They explode with much damage,
 Zipplebacks can be ridden by 2 players. They can both shoot with their own cooldown, but only the player on the left head can control the dragon.
 
 </details>
+
+## Other Mobs
+
+<details>
+<summary>Dragon Hunter</summary>
+This new type of illager will only attack players when provoked, but attacks dragons on sight.
 <br> 
+<br> 
+Their hate of dragons causes most of them to attack the Hunters on sight. Their arrows prevent a dragon from flying for up to a minute, preventing a hasty escape.
+<br> 
+</details>
+
+## Structures
+
+<details>
+<summary>Dragon Hunter Ship</summary>
+Coming in 2 varieties, these ships are crawling with Dragon Hunters.
+<br> 
+<br> 
+Cages can be found on ships, which can only be opened using a cage key. A cage key can be found rarely on a Dragon Hunter Ship, but much more commonly in Hunter Watchtowers, where there are guaranteed to be at least 4.
+<br> 
+Loot on these ships includes arrows, bows, crossbows, emeralds, cage keys, and much more.
+<br> 
+</details>
+
+<details>
+<summary>Hunter Watchtower</summary>
+Hunter Watchtowers can be found in most biomes, and are filled with Dragon Hunters strategizing about their next attack.
+<br> 
+<br> 
+2 cages can be found around watchtowers, which can only be opened using a cage key. A cage key can be found rarely on a Dragon Hunter Ship, but much more commonly in Hunter Watchtowers, where there are guaranteed to be at least 4. Keep the extra keys, because cages can also be found on Dragon Hunter Ships
+<br> 
+Loot in these towers includes arrows, bows, crossbows, emeralds, saddles, and much more.
+<br> 
+</details>
+ 
