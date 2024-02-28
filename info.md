@@ -34,7 +34,7 @@ When on a dragon, you can hold down the jump button to travel up and let go to t
 Use your normal movement controls to move other directions.
 <br> 
 <br> 
-While riding a dragon, you can make it breathe fire.
+While riding a dragon, you can make it breathe fire. There is a 10 second cooldown between shots
 <br> 
 - On touch controls, tap the circle in front of you when it turns green to shoot fire in the direction you are looking
 <br> 
@@ -79,3 +79,81 @@ Nadders can shoot sustained blasts of fire when ridden. The fire is hot enough t
 This dragon can be found in Dragon Cages
 
 </details>
+<br> 
+
+<details>
+<summary>Gronckle</summary>
+<br>
+This Boulder Class dragon is protective, but can be tamed at any age using the following foods:
+<br>
+ - Stone
+<br>
+ - Cobblestone
+<br>
+ - Tuff
+<br>
+ - Deepslate
+<br>
+ - Cobbled Deepslate
+<br>
+ - Andesite
+<br>
+ - Diorite
+<br>
+ - Granite
+<br>
+<br>
+Nadders can shoot lava blasts when ridden. The lava blast is hot enough to set most materials ablaze.
+<br>
+<br>
+This dragon can be found in Dragon Cages
+
+</details>
+<br> 
+
+<details>
+<summary>Monstrous Nightmare</summary>
+<br>
+This Stoker Class dragon is protective, but can be tamed at any age using the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Nightmares can shoot sustained blasts of fire when ridden. The fire is hot enough to set most materials ablaze.
+
+</details>
+<br> 
+
+<details>
+<summary>Monstrous Nightmare</summary>
+<br>
+This Stoker Class dragon is protective, but can be tamed at any age using the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Nightmares can shoot sustained blasts of fire when ridden. The fire is hot enough to set most materials ablaze.
+
+</details>
+<br> 
+<details>
+<summary>Hideous Zippleback</summary>
+<br>
+This Mystery Class dragon is protective, but can be tamed at any age using the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Zipplebacks can shoot gas explosions when ridden. They explode with much damage, but do not cause fire or destroy blocks.
+<br>
+<br>
+Zipplebacks can be ridden by 2 players. They can both shoot with their own cooldown, but only the player on the left head can control the dragon.
+
+</details>
+<br> 
