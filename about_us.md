@@ -4,6 +4,7 @@ permalink: /about
 ---
 
 **S3XT4**   [<img src="assets/youtube.svg">](https://www.youtube.com/@S3XT4ofc)
+<br>
 *Biography in Progress*
 <br>
 
@@ -23,15 +24,18 @@ I model, texture, and animate for the team. I’ve loved How to Train Your Drago
 
 
 **scatheariiasqdrayceon**
+<br>
 *Biography in Progress*
 <br>
 
 
 **_nick**
+<br>
 *Biography in Progress*
 <br>
 
 
 **RAXIORE**
+<br>
 *Biography in Progress*
 <br>
