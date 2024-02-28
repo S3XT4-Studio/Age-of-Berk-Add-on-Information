@@ -125,21 +125,6 @@ Nightmares can shoot sustained blasts of fire when ridden. The fire is hot enoug
 
 </details>
 <br> 
-
-<details>
-<summary>Monstrous Nightmare</summary>
-<br>
-This Stoker Class dragon is protective, but can be tamed at any age using the following foods:
-<br>
- - Raw Cod
-<br>
- - Raw Salmon
-<br>
-<br>
-Nightmares can shoot sustained blasts of fire when ridden. The fire is hot enough to set most materials ablaze.
-
-</details>
-<br> 
 <details>
 <summary>Hideous Zippleback</summary>
 <br>
