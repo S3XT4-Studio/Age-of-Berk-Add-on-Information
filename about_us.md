@@ -12,7 +12,11 @@ Language - English
 I am one of the programmers on the team. I've loved the How to Train Your Dragon movies for over a decade. I cherish the opportunity to be a part of the development of this add-on.
 <br>
 
-**_nick**
+**theredstonepro**
+<br>
+Language - English
+<br>
+I model, texture, and animate for the team. I’ve loved How to Train Your Dragon and Minecraft since I was a kid, and I always wished to find a way to bring the two together. Now I'm finally able to and I'm so glad I can.
 <br>
 
 
@@ -20,7 +24,7 @@ I am one of the programmers on the team. I've loved the How to Train Your Dragon
 <br>
 
 
-**theredstonepro**
+**_nick**
 <br>
 
 
