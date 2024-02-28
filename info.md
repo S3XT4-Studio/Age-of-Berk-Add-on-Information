@@ -56,7 +56,7 @@ The dragon will play a sitting animation, and will be unable to move, whether un
 
 <details>
 <summary>Deadly Nadder</summary>
-![Deadly Nadder](assets/nadder.png)
+ <img src="assets/nadder.png" alt="Deadly Nadder">
 <br>
 This Tracker Class dragon is protective, but can be tamed at any age using the following foods:
 <br>
@@ -81,7 +81,7 @@ This dragon can be found in Dragon Cages
 
 <details>
 <summary>Gronckle</summary>
-![Gronckle](assets/gronckle.png)
+ <img src="assets/gronckle.png" alt="Gronckle">
 <br>
 This Boulder Class dragon is protective, but can be tamed at any age using the following foods:
 <br>
@@ -111,7 +111,7 @@ This dragon can be found in Dragon Cages
 
 <details>
 <summary>Monstrous Nightmare</summary>
-![Monstrous Nightmare](assets/nightmare.png)
+ <img src="assets/nightmare.png" alt="Monstrous Nightmare">
 <br>
 This Stoker Class dragon is protective, but can be tamed at any age using the following foods:
 <br>
@@ -126,7 +126,7 @@ Nightmares can shoot sustained blasts of fire when ridden. The fire is hot enoug
 
 <details>
 <summary>Hideous Zippleback</summary>
-![Hideous Zippleback](assets/zippleback.png)
+ <img src="assets/zippleback.png" alt="Hideous Zippleback">
 <br>
 This Mystery Class dragon is protective, but can be tamed at any age using the following foods:
 <br>
