@@ -5,6 +5,7 @@ permalink: /downloads
 
  
 
+### Downloads
 <br>
 <a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/Hotfix/Age.of.Berk.Test.v1.5.1.mcaddon">Test v1.5.1</a>
 <br>
@@ -12,7 +13,7 @@ permalink: /downloads
 <br>
 <br>
 <br>
-## Necessary Experiments
+### Necessary Experiments
 <br>
 Without these, the add-on will not work.
 <br>
