@@ -14,19 +14,19 @@ permalink: /downloads
 
 #### Windows
 <br>
-Open File Explorer and double-click the file that you downloaded. It should open Minecraft.
+- Open File Explorer and double-click the file that you downloaded. It should open Minecraft.
 <br>
-Once it says "Import Successful", the add-on can then be installed on a new world. Simply add the behavior pack and resource pack in the world creation menu.
+- Once it says "Import Successful", the add-on can then be installed on a new world. Simply add the behavior pack and resource pack in the world creation menu.
 
 #### Android
-Go to the Settings app and select Storage > Explore (at the bottom). If you do not have a settings app, you can install a file explorer app like ES File Explorer.
+- Go to the Settings app and select Storage > Explore (at the bottom). If you do not have a settings app, you can install a file explorer app like ES File Explorer.
 <br>
-Select the directory where you saved the file, usually "Download". Select the file, and the add-on should open in Minecraft
+- Select the directory where you saved the file, usually "Download". Select the file, and the add-on should open in Minecraft
 <br>
-Once it says "Import Successful", the add-on can then be installed on a new world. Simply add the behavior pack and resource pack in the world creation menu.
+- Once it says "Import Successful", the add-on can then be installed on a new world. Simply add the behavior pack and resource pack in the world creation menu.
 
 #### iOS
-There is currently a bug with importing add-ons on iOS. Please see [iOS Import Errors](/ios.md) for a workaround.
+- There is currently a bug with importing add-ons on iOS. Please see [iOS Import Errors](/ios.md) for a workaround.
 <br>
 <br>
 
