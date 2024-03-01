@@ -9,3 +9,4 @@ Age of Berk has had countless hours of work put into it, but some bugs still sli
 - Dragon Hunters do not play a shooting animation.
 - Most Dragons do not pathfind. Instead, they remain in the same general area.
 - Dragon Cages rarely generate in the side of a Dragon Hunter ship, leading to the Dragon suffocating.
+- Monstrous Nightmares do not play a sitting animation
