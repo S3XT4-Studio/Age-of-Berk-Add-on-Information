@@ -14,6 +14,13 @@ permalink: /downloads
 Go to [Version History](/versions.md) to read changelogs and see release dates
 <br>
 
+### Necessary Experiments
+Without these, the add-on will not work.
+<br>
+<br>
+![Experiments](assets/experiment.png)
+<br>
+
 ### Installation
 
 #### Windows
@@ -31,11 +38,3 @@ Go to [Version History](/versions.md) to read changelogs and see release dates
 
 #### iOS
 - There is currently a bug with importing add-ons on iOS. Please see [iOS Import Errors](/ios.md) for a workaround.
-<br>
-<br>
-
-### Necessary Experiments
-Without these, the add-on will not work.
-<br>
-<br>
-![Experiments](assets/experiment.png)
