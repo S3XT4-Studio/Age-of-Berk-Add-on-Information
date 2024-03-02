@@ -5,7 +5,6 @@ permalink: /versions
 
 <details>
 <summary>1.5.X</summary>
-<br>
 <b>INITIAL RELEASE</b>
 <br>
 v1.5.0 - 27 February 2024
