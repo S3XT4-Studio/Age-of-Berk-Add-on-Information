@@ -10,6 +10,10 @@ permalink: /downloads
 <br>
 <a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/Translation/Dragoes.de.Berk.Traducao.para.portugues.mcaddon">Tradução de teste v1.5.1</a>
 <br>
+### Version History
+Go to [Version History](/versions.md) to read changelogs and see release dates
+<br>
+
 ### Installation
 
 #### Windows
