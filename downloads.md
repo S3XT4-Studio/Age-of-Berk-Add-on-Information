@@ -6,9 +6,7 @@ permalink: /downloads
  
 
 ### Downloads
-<a href="https://suaurl.com/ee8460">Test v1.5.1 BP</a>
-<br>
-<a href="https://suaurl.com/914693">Test v1.5.1 RP</a>
+<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/Hotfix/Age.of.Berk.Test.v1.5.1.mcaddon">Test v1.5.1 Add-on</a>
 <br>
 <a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/Translation/Dragoes.de.Berk.Traducao.para.portugues.mcaddon">Tradução de teste v1.5.1</a>
 <br>
