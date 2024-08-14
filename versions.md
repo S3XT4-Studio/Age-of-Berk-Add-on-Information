@@ -34,6 +34,13 @@ v1.5.1 - 28 February 2024
  <li>Fixes dragons not sitting</li>
  <li>Fixes Zipplebacks not having variants</li>
 </ul>
+<b>HOTFIX</b>
+<br>
+v1.5.2 - 13 August 2024
+<ul>
+ <li>Fixes issues caused by the removal of the Holiday Creator Features</li>
+ <li>Adds the long-awaited Night Fury!</li>
+</ul>
 
 
 
