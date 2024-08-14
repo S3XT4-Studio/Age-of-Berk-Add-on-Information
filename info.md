@@ -144,6 +144,24 @@ Zipplebacks can be ridden by 2 players. They can both shoot with their own coold
 
 </details>
 
+<details>
+<summary>Night Fury</summary>
+ <img src="assets/night_fury.png" alt="Night Fury">
+<br>
+This Strike dragon is protective, but can be tamed using the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Night Furies can shoot plasma blasts when ridden. The fire is hot enough to set most materials ablaze.
+<br>
+<br>
+Only one night fury will spawn at a time, and until that night fury is trained, you will not find another. This makes them incredibly rare to find.
+
+</details>
+
 ## Other Mobs
 
 <details>
