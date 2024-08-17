@@ -23,12 +23,6 @@ I model, texture, and animate for the team. I’ve loved How to Train Your Drago
 <br>
 
 
-**scatheariiasqdrayceon**
-<br>
-*Biography in Progress*
-<br>
-
-
 **_nick**
 <br>
 *Biography in Progress*
