@@ -38,6 +38,14 @@ Join <a href="https://discord.gg/d2j6aUTvq4">Our Discord</a>! We have a special 
 ## Technical Details
 
 <details>
+<summary>What Minecraft version is the add-on for?</summary>
+<br> 
+The add-on will almost always work exclusively in the most recent version of Minecraft. If the add-on isn't even installing, make sure you are updated to the latest version of Minecraft. You can find that <a href="https://feedback.minecraft.net/hc/en-us/sections/360001186971-Release-Changelogs">here</a>. (look for the first version that says Bedrock)
+ 
+<br>
+</details>
+
+<details>
 <summary>How do I install Age of Berk?</summary>
 <br> 
 We have a handy guide at the bottom of the <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/downloads">download page</a>.
