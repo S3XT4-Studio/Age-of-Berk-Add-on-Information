@@ -12,7 +12,7 @@ permalink: /about
 <br>
 Language - English
 <br>
-I am one of the programmers on the team. I've loved the How to Train Your Dragon movies for over a decade. I cherish the opportunity to be a part of the development of this add-on.
+I am the programmer of the team. I've loved the How to Train Your Dragon movies for over a decade. I cherish the opportunity to be a part of the development of this add-on.
 <br>
 
 **theredstonepro**
@@ -32,4 +32,10 @@ I model, texture, and animate for the team. I’ve loved How to Train Your Drago
 **RAXIORE**
 <br>
 *Biography in Progress*
+<br>
+
+
+**REO**
+<br>
+I am an animator for the team.
 <br>
