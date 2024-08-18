@@ -25,7 +25,9 @@ I model, texture, and animate for the team. I’ve loved How to Train Your Drago
 
 **_nick**
 <br>
-*Biography in Progress*
+Language - Spanish
+<br>
+I am an animator, modeler and texturizer of the addon. I do models for fun and I always wanted to participate in some addon or mod
 <br>
 
 
