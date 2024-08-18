@@ -13,6 +13,7 @@ The most important details about the dragons are included in the in-game Book of
 <br>
 Extra information about dragons, and information about the rest of the features, can be found <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/info">here</a>.
 
+<br>
 </details>
 
 <details>
@@ -23,6 +24,7 @@ Make sure the add-on is installed properly (look at the <b>Technical Details</b>
 <br>
 Check that what is happening isn't a <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/bugs">known bug</a>. If it isn't there, and you are certain the problem isn't on your end, make a detailed bug report. The more details, the more likely we will be able to fix it. If you don't give us all the details listed, we may not be able to figure out what is wrong.
 
+<br>
 </details>
 
 <details>
@@ -30,6 +32,7 @@ Check that what is happening isn't a <a href="https://s3xt4-studio.github.io/Age
 <br>
 Join <a href="https://discord.gg/d2j6aUTvq4">Our Discord</a>! We have a special area for ideas, and also have frequent polls and questions that allow you to shape the future of Age of Berk!
 
+<br>
 </details>
 
 ## Technical Details
@@ -39,6 +42,7 @@ Join <a href="https://discord.gg/d2j6aUTvq4">Our Discord</a>! We have a special 
 <br> 
 We have a handy guide at the bottom of the <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/downloads">download page</a>.
  
+<br>
 </details>
 
 <details>
@@ -70,6 +74,7 @@ Updating an add-on can cause some problems when done incorrectly, so please foll
 <br> 
 - Check that new features are available and that you haven't lost any progress before calling the updating process a success.
  
+<br>
 </details>
 
 <details>
@@ -86,4 +91,5 @@ Worlds that have previously used one version can not use a lower version without
 <br> 
 Bug reports are only accepted for the latest version. Please double check that the bug occurs in the latest version before submitting a <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/bugs">bug report</a>.
  
+<br>
 </details>
