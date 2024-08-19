@@ -61,10 +61,10 @@ Every tameable dragon (except the night fury for now) can breed as an adult.
 <br> 
 To make a dragon breed, you must have two trained adult dragons of the same type. Feed them the same food you would train them with. They will then breed, and lay an egg. 
 <br> 
+<br>
 When the egg hatches, an untrained baby dragon will appear. Train it, and then wait for it to grow up, or feed it more food to make it grow up faster!
 <br> 
-
-
+ 
 </details>
 
 ## Individual Dragons
@@ -175,7 +175,7 @@ Only one night fury will spawn at a time, and until that night fury is trained, 
 
 </details>
 <details>
-<summary>Deadly Nadder</summary>
+<summary>Whispering Death</summary>
  <img src="assets/whispering_death.png" alt="Whispering Death">
 <br>
 This Boulder Class dragon is extremely aggressive, and can only be trained as a baby, with the following foods
@@ -190,7 +190,7 @@ Whispering Deaths emerge from beneath, and will become immediately hostile to pl
 <br>
 Nadders can shoot rings of fire when ridden. The fire is hot enough to set most materials ablaze.
 <br>
-
+ 
 </details>
 
 ## Other Mobs
