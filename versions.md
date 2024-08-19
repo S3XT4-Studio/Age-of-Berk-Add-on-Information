@@ -47,7 +47,7 @@ v1.5.2 - 13 August 2024
 <summary>1.6.X</summary>
 <b>Minor Version</b>
 <br>
-v1.6.0 - 20 August 2024
+v1.6.0 - 19 August 2024
 <ul>
  <li>Adds Whispering Deaths
  <li>Adds breeding, baby dragons, and eggs for all dragons except night furies
