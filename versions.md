@@ -41,8 +41,23 @@ v1.5.2 - 13 August 2024
  <li>Fixes issues caused by the removal of the Holiday Creator Features</li>
  <li>Adds the long-awaited Night Fury! No Book of Dragons entry yet.</li>
 </ul>
+</details>
 
-
-
- 
+<details>
+<summary>1.6.X</summary>
+<b>Minor Version</b>
+<br>
+v1.6.0 - 20 August 2024
+<ul>
+ <li>Adds Whispering Deaths
+ <li>Adds breeding, baby dragons, and eggs for all dragons except night furies
+ <li>Adds Book of Dragons entries for the Night Fury and Whispering Death
+ <li>Adds achievements in a separate pack. For now, only available in English. Translation to Portuguese is planned.
+ <li>Fixes many bugs
+ </li>
+ </li>
+ </li>
+ </li>
+ </li>
+</ul> 
 </details>
