@@ -6,9 +6,12 @@ permalink: /downloads
  
 
 ### Downloads
-<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.5.2/Age.of.Berk.Test.v1.5.2.mcaddon">Test v1.5.2 Add-on</a>
+<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.6.0/Age.of.Berk.Test.v1.6.0.mcaddon">Test v1.6.0 Add-on</a>
 <br>
-<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/Translation/Dragoes.de.Berk.Traducao.para.portugues.mcaddon">Tradução de teste</a>
+<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.6.0/Era.de.Berk.Traducao.para.o.Portugues.v1.6.0.mcaddon">Teste de tradução v1.6.0</a>
+<br>
+<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.6.0/Age.of.Berk.Achievements.v1.6.0.mcaddon">English Achievements (Portuguese not yet available)</a>
+<br>
 <br>
 ### Version History
 Go to [Version History](/versions.md) to read changelogs and see release dates
