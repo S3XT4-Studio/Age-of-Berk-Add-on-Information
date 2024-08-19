@@ -30,6 +30,11 @@ Most tameable dragons can be ridden and flown
 To mount a dragon, interact with it.
 <br> 
 <br> 
+To control your dragon, you need a dragon saddle. These can be crafted using this recipe:
+ <img src="assets/dragon_saddle_craft.png" alt="Crafting Recipe">
+
+<br> 
+<br> 
 When on a dragon, you can hold down the jump button to travel up and let go to travel down.
 <br> 
 Use your normal movement controls to move other directions.
