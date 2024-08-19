@@ -45,7 +45,7 @@ v1.5.2 - 13 August 2024
 
 <details>
 <summary>1.6.X</summary>
-<b>Minor Version</b>
+<b>MINOR VERSION</b>
 <br>
 v1.6.0 - 19 August 2024
 <ul>
