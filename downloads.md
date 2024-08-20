@@ -27,17 +27,22 @@ Without these, the add-on will not work.
 ### Installation
 
 #### Windows
-<br>
 - Open File Explorer and double-click the file that you downloaded. It should open Minecraft.
-<br>
 - Once it says "Import Successful", the add-on can then be installed on a new world. Simply add the behavior pack and resource pack in the world creation menu.
+<br>
 
 #### Android
-- Go to the Settings app and select Storage > Explore (at the bottom). If you do not have a settings app, you can install a file explorer app like ES File Explorer.
+You cannot use the default file explorer for Android to import add-ons like you once were able to.
 <br>
-- Select the directory where you saved the file, usually "Download". Select the file, and the add-on should open in Minecraft
 <br>
+From Mojang: 
+<br>
+Unfortunately, this change is something that is being stipulated by the platform itself and is not an arbitrary change that Minecraft has decided to put in place. In order to comply with the platform's requirements and continue to publish Minecraft updates these changes had to be made. We are aware of the difficulties this has caused some players in managing their games and save files. What you can do is to use a file explorer that supports the file extensions and import the files that way, like a CX File Explorer. ([Source](https://bugs.mojang.com/browse/MCPE-140165?attachmentViewMode=list))
+<br>
+<br>
+- Once you have downloaded the file to a location in CX File Explorer, select the file and open it in Minecraft.
 - Once it says "Import Successful", the add-on can then be installed on a new world. Simply add the behavior pack and resource pack in the world creation menu.
+<br>
 
 #### iOS
 - There is currently a bug with importing add-ons on iOS. Please see [iOS Import Errors](/ios.md) for a workaround.
