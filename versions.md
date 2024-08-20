@@ -67,4 +67,11 @@ v1.6.1 - 19 August 2024
  <li>Fixes an issue where dragons were hard to train because they were often high in the sky. They should now land more frequently.</li>
  <li>Partially fixed an issue where Whispering Deaths would sometimes float into the sky when attacked. They should not do this as often.</li>
 </ul>
+<b>HOTFIX</b>
+<br>
+v1.6.2 - 20 August 2024
+<ul>
+ <li>Fixes an lack of animations for most baby dragons.</li>
+ <li>Fixes an issue where most dragons would sometimes float into the sky when attacked.</li>
+</ul>
 </details>
