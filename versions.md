@@ -75,3 +75,20 @@ v1.6.2 - 20 August 2024
  <li>Fixes an issue where most dragons would sometimes float into the sky when attacked.</li>
 </ul>
 </details>
+
+<details>
+<summary>1.7.X</summary>
+<b>MINOR VERSION</b>
+<br>
+v1.7.0 - 27 August 2024
+<ul>
+ <li>Adds Thunderdrums. No Book of Dragons entry yet
+ <li>Adds sounds for many dragons
+ <li>Adds the Dragon Blade and Monstrous Nightmare Gel
+ <li>Fixes many bugs
+ </li>
+ </li>
+ </li>
+ </li>
+</ul> 
+</details>
