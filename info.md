@@ -201,7 +201,6 @@ Nadders can shoot rings of fire when ridden. The fire is hot enough to set most 
  
 </details>
 
-</details>
 <details>
 <summary>Thunderdrum</summary>
  <img src="assets/thunderdrum.png" alt="Thunderdrum">
