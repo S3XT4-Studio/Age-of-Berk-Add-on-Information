@@ -141,6 +141,9 @@ This Stoker Class dragon is protective, but can be tamed at any age using the fo
 <br>
 <br>
 Nightmares can shoot sustained blasts of fire when ridden. The fire is hot enough to set most materials ablaze.
+<br>
+<br>
+You can interact with a nightmare while holding an empty bottle to harvest some Monstrous Nightmare Gel, which can be used to craft the Dragon Blade. The Dragon Blade can be ignited by using it, and will set enemies ablaze as if enchanted with Fire Aspect.
 
 </details>
 
@@ -194,6 +197,26 @@ Whispering Deaths emerge from beneath, and will become immediately hostile to pl
 <br>
 <br>
 Nadders can shoot rings of fire when ridden. The fire is hot enough to set most materials ablaze.
+<br>
+ 
+</details>
+
+</details>
+<details>
+<summary>Thunderdrum</summary>
+ <img src="assets/thunderdrum.png" alt="Thunderdrum">
+<br>
+This Tidal Class dragon will flee when attacked, but can be tamed using the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Thunderdrums spawn in the ocean. They are skilled swimmers, and can even swim with a rider. Just remember a water breathing potion!
+<br>
+<br>
+Thunderdrums do not have a fire. Instead, they can emit a strong knockback attack that does no damage, but sends all enemies within a certain distance flying far away!
 <br>
  
 </details>
