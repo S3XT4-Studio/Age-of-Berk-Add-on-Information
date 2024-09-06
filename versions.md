@@ -101,6 +101,7 @@ v1.7.0 - 6 September 2024
 <ul>
  <li>Adds Sand Wraiths. No Book of Dragons entry yet
  <li>Adds new attack animation for Thunderdrums
+ <li>Adds new pottery sherd (Tame) that is found in Watchtowers
  <li>Updates the Watchtower loot to include newer items and more dragon eggs
  <li>Updates some dragon flying and fleeing behavior
  <li>Fixes many bug
