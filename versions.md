@@ -92,3 +92,21 @@ v1.7.0 - 27 August 2024
  </li>
 </ul> 
 </details>
+
+<details>
+<summary>1.7.X</summary>
+<b>MINOR VERSION</b>
+<br>
+v1.7.0 - 6 September 2024
+<ul>
+ <li>Adds Sand Wraiths. No Book of Dragons entry yet
+ <li>Adds new attack animation for Thunderdrums
+ <li>Updates the Watchtower loot to include newer items and more dragon eggs
+ <li>Updates some dragon flying and fleeing behavior
+ <li>Fixes many bug
+ </li>
+ </li>
+ </li>
+ </li>
+</ul> 
+</details>
