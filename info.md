@@ -169,7 +169,7 @@ Zipplebacks can be ridden by 2 players. They can both shoot with their own coold
 <summary>Night Fury</summary>
  <img src="assets/night_fury.png" alt="Night Fury">
 <br>
-This Strike dragon is protective, but can be tamed using the following foods:
+This Strike Class dragon is protective, but can be tamed using the following foods:
 <br>
  - Raw Cod
 <br>
@@ -205,7 +205,7 @@ Nadders can shoot rings of fire when ridden. The fire is hot enough to set most 
 <summary>Thunderdrum</summary>
  <img src="assets/thunderdrum.png" alt="Thunderdrum">
 <br>
-This Tidal Class dragon will flee when attacked, but can be tamed using the following foods:
+This Tidal Class dragon is defensive, but can be tamed using the following foods:
 <br>
  - Raw Cod
 <br>
@@ -215,7 +215,26 @@ This Tidal Class dragon will flee when attacked, but can be tamed using the foll
 Thunderdrums spawn in the ocean. They are skilled swimmers, and can even swim with a rider. Just remember a water breathing potion!
 <br>
 <br>
-Thunderdrums do not have a fire. Instead, they can emit a strong knockback attack that does no damage, but sends all enemies within a certain distance flying far away!
+Thunderdrums do not have a fire. Instead, they can emit a strong knockback attack that does no damage, but sends all enemies within a certain distance flying far away! They will attack everything in sight when they are attacked, so don't be nearby when they are angry!
+<br>
+ 
+</details>
+
+<details>
+<summary>Sand Wraith</summary>
+ <img src="assets/sand_wraith.png" alt="Sand Wraith">
+<br>
+This Tidal Class dragon is protective, but can be tamed using the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Sand Wraiths spawn anywhere where there is sand for them to hunt in. The Sand Wraith is peaceable, unless attacked of course.
+<br>
+<br>
+Sand Wraiths shoot a ball of molten sand that, while very warm, will not set blocks on fire.
 <br>
  
 </details>
@@ -251,6 +270,6 @@ Hunter Watchtowers can be found in most biomes, and are filled with Dragon Hunte
 <br> 
 2 cages can be found around watchtowers, which can only be opened using a cage key. A cage key can be found rarely on a Dragon Hunter Ship, but much more commonly in Hunter Watchtowers, where there are guaranteed to be at least 4. Keep the extra keys, because cages can also be found on Dragon Hunter Ships
 <br> 
-Loot in these towers includes arrows, bows, crossbows, emeralds, saddles, and much more.
+Loot in these towers includes arrows, bows, crossbows, dragon eggs, the tame pottery sherd, dragon saddles, and much more.
 <br> 
 </details>
