@@ -94,17 +94,38 @@ v1.7.0 - 27 August 2024
 </details>
 
 <details>
-<summary>1.7.X</summary>
+<summary>1.8.X</summary>
 <b>MINOR VERSION</b>
 <br>
-v1.7.0 - 6 September 2024
+v1.8.0 - 6 September 2024
 <ul>
  <li>Adds Sand Wraiths. No Book of Dragons entry yet
  <li>Adds new attack animation for Thunderdrums
  <li>Adds new pottery sherd (Tame) that is found in Watchtowers
  <li>Updates the Watchtower loot to include newer items and more dragon eggs
  <li>Updates some dragon flying and fleeing behavior
- <li>Fixes many bug
+ <li>Fixes many bugs
+ </li>
+ </li>
+ </li>
+ </li>
+</ul> 
+</details>
+<details>
+<summary>1.9.X</summary>
+<b>MINOR VERSION</b>
+<br>
+v1.9.0 - 4 November 2024
+<ul>
+ <li>Adds Timberjacks. No Book of Dragons entry yet
+ <li>Adds new egg models for a few dragons
+ <li>Adds dragon horns, which can be used to call all trained dragons within your render distance to your location
+ <li>Updates some baby dragon models and animations
+ <li>Updates the night fury model
+ <li>Updates saddle models for a few dragons
+ <li>Fixes many bugs
+ <li>The add-on now requires a new experimental toggle. Check out the download page for more information.
+ <li>
  </li>
  </li>
  </li>
