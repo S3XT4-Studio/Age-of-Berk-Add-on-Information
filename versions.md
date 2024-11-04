@@ -125,7 +125,6 @@ v1.9.0 - 4 November 2024
  <li>Updates saddle models for a few dragons
  <li>Fixes many bugs
  <li>The add-on now requires a new experimental toggle. Check out the download page for more information.
- <li>
  </li>
  </li>
  </li>
