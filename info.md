@@ -239,6 +239,25 @@ Sand Wraiths shoot a ball of molten sand that, while very warm, will not set blo
  
 </details>
 
+<details>
+<summary>Timberjack</summary>
+ <img src="assets/timberjack.png" alt="Timberjack">
+<br>
+This Sharp Class dragon is protective, but can be tamed using the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Timberjacks spawn in biomes with 2x2 spruce trees.. They are peaceable, unless attacked of course.
+<br>
+<br>
+Timberjacks can shoot sustained blasts of fire when ridden. The fire is hot enough to set most materials ablaze.
+<br>
+ 
+</details>
+
 ## Other Mobs
 
 <details>
