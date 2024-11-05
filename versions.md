@@ -111,8 +111,6 @@ v1.8.0 - 6 September 2024
  </li>
 </ul> 
 </details>
-</ul> 
-</details>
 
 <details>
 <summary>1.9.X</summary>
