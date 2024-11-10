@@ -61,7 +61,7 @@ The dragon will play a sitting animation, and will be unable to move, whether un
 
 <details>
 <summary>Breeding</summary>
-Every tameable dragon (except the night fury for now) can breed as an adult.
+Every tameable dragon can breed as an adult.
 <br> 
 <br> 
 To make a dragon breed, you must have two trained adult dragons of the same type. Feed them the same food you would train them with. They will then breed, and lay an egg. 
