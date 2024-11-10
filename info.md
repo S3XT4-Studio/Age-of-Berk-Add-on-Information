@@ -293,7 +293,7 @@ This Strike Class dragon is extremely aggressive, and can only be tamed during e
 Skrills spawn in Jagged Peaks biomes, where they are closest to the lightning. They are aggressive to any players, unless it is raining.
 <br>
 <br>
-Timberjacks can shoot lightning blasts that will electrocute anything unlucky enough to be hit by them. They are very dangerous
+Skrills can shoot lightning blasts that will electrocute anything unlucky enough to be hit by them. They are very dangerous
 <br>
  
 </details>
