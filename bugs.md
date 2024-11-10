@@ -9,4 +9,3 @@ Age of Berk has had countless hours of work put into it, but some bugs still sli
 - Dragon Hunters do not play a shooting animation.
 - Dragon Cages rarely generate in the side of a Dragon Hunter ship, leading to the Dragon suffocating.
 - Dragon Hunter Ships appear flooded
-- Night Fury wings rotate unnaturally when changing animation states
