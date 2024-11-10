@@ -258,6 +258,46 @@ Timberjacks can shoot sustained blasts of fire when ridden. The fire is hot enou
  
 </details>
 
+<details>
+<summary>Flame Whipper</summary>
+ <img src="assets/flamewhipper.png" alt="Flame Whipper">
+<br>
+This Stoker Class dragon is aggressive, and can be tamed as a baby with the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Flame Whippers spawn in jungles, and will seek out players to attack.
+<br>
+<br>
+Flame Whippers can shoot poison fireballs, that give the poison and slowness effect to its target. While the fire is not hot enough to cause fire, they are still very dangerous.
+<br>
+ 
+</details>
+
+<details>
+<summary>Skrill</summary>
+ <img src="assets/timberjack.png" alt="Timberjack">
+<br>
+This Strike Class dragon is extremely aggressive, and can only be tamed during extreme weather. They can be be tamed using the following items:
+<br>
+ - Iron Nugget
+<br>
+ - Iron Ingot
+<br>
+ - Iron Block
+<br>
+<br>
+Skrills spawn in Jagged Peaks biomes, where they are closest to the lightning. They are aggressive to any players, unless it is raining.
+<br>
+<br>
+Timberjacks can shoot lightning blasts that will electrocute anything unlucky enough to be hit by them. They are very dangerous
+<br>
+ 
+</details>
+
 ## Other Mobs
 
 <details>
