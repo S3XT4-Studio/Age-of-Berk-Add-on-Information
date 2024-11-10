@@ -279,7 +279,7 @@ Flame Whippers can shoot poison fireballs, that give the poison and slowness eff
 
 <details>
 <summary>Skrill</summary>
- <img src="assets/timberjack.png" alt="Timberjack">
+ <img src="assets/skrill.png" alt="Skrill">
 <br>
 This Strike Class dragon is extremely aggressive, and can only be tamed during extreme weather. They can be be tamed using the following items:
 <br>
