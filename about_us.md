@@ -40,7 +40,7 @@ I am an animator, modeler and texturizer of the addon. I do models for fun and I
 <br>
 
 
-**RAXIORE**
+**REO**
 <br>
 *Biography in Progress*
 <br>
