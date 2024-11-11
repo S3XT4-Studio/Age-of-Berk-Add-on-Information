@@ -61,7 +61,7 @@ The dragon will play a sitting animation, and will be unable to move, whether un
 
 <details>
 <summary>Breeding</summary>
-Every tameable dragon (except the night fury for now) can breed as an adult.
+Every tameable dragon can breed as an adult.
 <br> 
 <br> 
 To make a dragon breed, you must have two trained adult dragons of the same type. Feed them the same food you would train them with. They will then breed, and lay an egg. 
@@ -254,6 +254,46 @@ Timberjacks spawn in biomes with 2x2 spruce trees.. They are peaceable, unless a
 <br>
 <br>
 Timberjacks can shoot sustained blasts of fire when ridden. The fire is hot enough to set most materials ablaze.
+<br>
+ 
+</details>
+
+<details>
+<summary>Flame Whipper</summary>
+ <img src="assets/flamewhipper.png" alt="Flame Whipper">
+<br>
+This Stoker Class dragon is aggressive, and can be tamed as a baby with the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Flame Whippers spawn in jungles, and will seek out players to attack.
+<br>
+<br>
+Flame Whippers can shoot poison fireballs, that give the poison and slowness effect to its target. While the fire is not hot enough to cause fire, they are still very dangerous.
+<br>
+ 
+</details>
+
+<details>
+<summary>Skrill</summary>
+ <img src="assets/skrill.png" alt="Skrill">
+<br>
+This Strike Class dragon is extremely aggressive, and can only be tamed during extreme weather. They can be be tamed using the following items:
+<br>
+ - Iron Nugget
+<br>
+ - Iron Ingot
+<br>
+ - Iron Block
+<br>
+<br>
+Skrills spawn in Jagged Peaks biomes, where they are closest to the lightning. They are aggressive to any players, unless it is raining.
+<br>
+<br>
+Skrills can shoot lightning blasts that will electrocute anything unlucky enough to be hit by them. They are very dangerous
 <br>
  
 </details>

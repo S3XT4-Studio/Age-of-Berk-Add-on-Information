@@ -3,6 +3,9 @@ title: About Us
 permalink: /about
 ---
 
+
+***Team Developers***
+<br>
 **S3XT4**   [<img src="assets/youtube.svg">](https://www.youtube.com/@S3XT4ofc)
 <br>
 *Biography in Progress*
@@ -39,5 +42,11 @@ I am an animator, modeler and texturizer of the addon. I do models for fun and I
 
 **REO**
 <br>
-I am an animator for the team.
+*Biography in Progress*
 <br>
+<br>
+
+***Community Developers***
+<br>
+- MasterAatib
+

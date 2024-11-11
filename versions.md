@@ -136,3 +136,22 @@ v1.9.0 - 4 November 2024
  </li>
 </ul> 
 </details>
+
+<details>
+<summary>1.10.X</summary>
+<b>MINOR VERSION</b>
+<br>
+v1.10.0 - 11 November 2024
+<ul>
+ <li>Adds Skrills and Flame Whippers. No Book of Dragons entry yet
+ <li>Updates and fixes night fury animations
+ <li>Adds new settings toggle for camera positioning while flying a dragon. It will default to first person, but you can change it anytime
+ <li>Adds baby Night Furies and Night Fury eggs.
+ <li>Fixes many bugs
+ </li>
+ </li>
+ </li>
+ </li>
+ </li>
+</ul> 
+</details>
