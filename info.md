@@ -336,6 +336,5 @@ Loot in these towers includes arrows, bows, crossbows, dragon eggs, the tame pot
 
 
 ## Video Showcase
-<iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLGq1ll6BVhtXJGGCBka1MuCriUrnHykT2" frameborder="0" allowfullscreen>
-
 (some material may be outdated, not affiliated with S3XT4 Studios)
+<iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLGq1ll6BVhtXJGGCBka1MuCriUrnHykT2" frameborder="0" allowfullscreen>
