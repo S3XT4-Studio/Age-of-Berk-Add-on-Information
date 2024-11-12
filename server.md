@@ -1,9 +1,11 @@
 ---
-title: Age of Berk Online
+title: Dragons Edge
 permalink: /server
 ---
 
-There is an official Age of Berk server. All are welcome to join.
+![Server Banner](assets/server_banner.png)
+
+There is an official Age of Berk server. All are welcome to join. For now, only those who are authenticated with Microsoft will be able to log in.
 
 By joining, you agree to the following rules:
 1. No griefing, targeting, bullying, or unkindness of any kind.
