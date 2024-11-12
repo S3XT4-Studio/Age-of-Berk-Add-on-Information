@@ -332,3 +332,8 @@ Hunter Watchtowers can be found in most biomes, and are filled with Dragon Hunte
 Loot in these towers includes arrows, bows, crossbows, dragon eggs, the tame pottery sherd, dragon saddles, and much more.
 <br> 
 </details>
+
+
+
+## Video Showcase (some material may be outdated)
+<iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLGq1ll6BVhtXJGGCBka1MuCriUrnHykT2" frameborder="0" allowfullscreen>
