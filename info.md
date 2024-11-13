@@ -341,7 +341,7 @@ Loot in these towers includes arrows, bows, crossbows, dragon eggs, the tame pot
 <center>
 <div class="videoWrapper">
 <iframe
-  src="https://www.youtube.com/embed/?listType=playlist&list=PLGq1ll6BVhtXJGGCBka1MuCriUrnHykT2"
+  src="https://www.youtube.com/embed/?listType=playlist&list=PLGq1ll6BVhtXJGGCBka1MuCriUrnHykT2&index=1"
   title="Showcase by Smithy MC"
   width="800"
   height="450"
