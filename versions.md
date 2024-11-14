@@ -154,4 +154,13 @@ v1.10.0 - 11 November 2024
  </li>
  </li>
 </ul> 
+<b>HOTFIX</b>
+<br>
+v1.10.1 - 14 November 2024
+<ul>
+ <li>Fixes Thunderdrum spawning rates</li>
+ <li>Updates Skrill textures</li>
+ <li>Updates tame pottery sherd to be more consistent with other sherds</li>
+ <li>Updates the Book of Dragons to have all current dragons</li>
+</ul>
 </details>
