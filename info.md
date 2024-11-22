@@ -298,6 +298,25 @@ Skrills can shoot lightning blasts that will electrocute anything unlucky enough
  
 </details>
 
+<details>
+<summary>Snow Wraith</summary>
+ <img src="assets/snow_wraith.png" alt="Snow Wraith">
+<br>
+This Strike Class dragon is aggressive, and can only be tamed as a baby. They can be be tamed using the following items:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Snow Wraiths can be found in frozen biomes, and will become immediately hostile to players and wandering traders it sees.
+<br>
+<br>
+Skrills can shoot ice blasts, which damage and temporarily slow down victims. They should be considered very dangerous.
+<br>
+ 
+</details>
+
 ## Other Mobs
 
 <details>
