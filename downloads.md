@@ -6,7 +6,7 @@ permalink: /downloads
  
 
 ### Downloads
-<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.10.1/Age.of.Berk.Test.v1.10.1.mcaddon">Test v1.10.1 Add-on</a>
+<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.11.0/Age.of.Berk.Test.v1.11.0.mcaddon">Test v1.11.0 Add-on</a>
 <br>
 <a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.10.1/Age.of.Berk.Portuguese.Translation.v1.10.1.mcaddon">Teste de tradução v1.10.1</a>
 <br>
