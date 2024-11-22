@@ -164,3 +164,26 @@ v1.10.1 - 14 November 2024
  <li>Updates the Book of Dragons to have all current dragons</li>
 </ul>
 </details>
+
+<details>
+<summary>1.11.X</summary>
+<b>MINOR VERSION</b>
+<br>
+v1.110 - 22 November 2024
+<ul>
+<li>Added the snow wraith, which can be tamed as a baby. No Book of Dragons entry yet.
+<li>Updated Monstrous Nightmare animations
+<li>Fixed Sand Wraiths not growing up. May only fix new sand wraiths. Pre-existing sand wraiths may not be fixed.
+<li>Fixed lag caused by Thunderdrums
+<li>Fixed dragon flight to not only go up
+<li>Fixed several other bugs
+ </li>
+ </li>
+ </li>
+ </li>
+ </li>
+ </li>
+ </li>
+ </li>
+</ul> 
+</details>
