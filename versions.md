@@ -92,7 +92,6 @@ v1.7.0 - 27 August 2024
  </li>
 </ul> 
 </details>
-
 <details>
 <summary>1.8.X</summary>
 <b>MINOR VERSION</b>
@@ -105,6 +104,8 @@ v1.8.0 - 6 September 2024
  <li>Updates the Watchtower loot to include newer items and more dragon eggs
  <li>Updates some dragon flying and fleeing behavior
  <li>Fixes many bugs
+ </li>
+ </li>
  </li>
  </li>
  </li>
@@ -177,8 +178,6 @@ v1.110 - 22 November 2024
 <li>Fixed lag caused by Thunderdrums
 <li>Fixed dragon flight to not only go up
 <li>Fixed several other bugs
- </li>
- </li>
  </li>
  </li>
  </li>
