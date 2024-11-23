@@ -37,6 +37,7 @@ Without these, the add-on will not work.
 - Select the directory where you saved the file, usually "Download".
 - Select the file & the add-on should open in Minecraft.
 - Once it says "Import Successful", the add-on can then be installed on a new world. Simply add the behavior pack and resource pack in the world creation menu.
+- **(If any of these steps don't work, check the FAQ for Android-specific information)**
 <br>
 
 #### iOS
