@@ -46,6 +46,14 @@ The add-on will almost always work exclusively in the most recent version of Min
 </details>
 
 <details>
+<summary>Why is the add-on not importing on Android?</summary>
+<br> 
+This is an issue with the platform, not our add-on. See <a href="https://bugs.mojang.com/browse/MCPE-140165">this official Mojang bug report</a> for more information.
+ 
+<br>
+</details>
+
+<details>
 <summary>How do I install Age of Berk?</summary>
 <br> 
 We have a handy guide at the bottom of the <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/downloads">download page</a>.
