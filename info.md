@@ -293,7 +293,7 @@ This Strike Class dragon is extremely aggressive, and can only be tamed during e
 Skrills spawn in Jagged Peaks biomes, where they are closest to the lightning. They are aggressive to any players, unless it is raining.
 <br>
 <br>
-Skrills can shoot lightning blasts that will electrocute anything unlucky enough to be hit by them. They are very dangerous
+Skrills can shoot lightning blasts that will electrocute anything unlucky enough to be hit by them. They are very dangerous.
 <br>
  
 </details>
@@ -312,7 +312,7 @@ This Strike Class dragon is aggressive, and can only be tamed as a baby. They ca
 Snow Wraiths can be found in frozen biomes, and will become immediately hostile to players and wandering traders it sees.
 <br>
 <br>
-Skrills can shoot ice blasts, which damage and temporarily slow down victims. They should be considered very dangerous.
+Snow Wraiths can shoot ice blasts, which damage and temporarily slow down victims. They should be considered very dangerous.
 <br>
  
 </details>
