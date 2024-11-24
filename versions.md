@@ -170,7 +170,7 @@ v1.10.1 - 14 November 2024
 <summary>1.11.X</summary>
 <b>MINOR VERSION</b>
 <br>
-v1.110 - 22 November 2024
+v1.11.0 - 22 November 2024
 <ul>
 <li>Added the snow wraith, which can be tamed as a baby. No Book of Dragons entry yet.
 <li>Updated Monstrous Nightmare animations
@@ -185,4 +185,15 @@ v1.110 - 22 November 2024
  </li>
  </li>
 </ul> 
+<b>HOTFIX</b>
+<br>
+v1.11.1 - 24 November 2024
+<ul>
+ <li>Dragons spawn less frequently, allowing for normal mobs to spawn more often</li>
+ <li>Reworked dragon fireballs, to allow to better performance</li>
+ <li>Reworked dragon cages. Skrills and sand wraiths can now be found in them as well!</li>
+ <li>Players can no longer remove saddles from dragons that are not tamed by them</li>
+ <li>Monstrous Nightmares will no longer T-Pose when sitting</li>
+ <li>Added Book of Dragons entry for the Snow Wraith</li>
+</ul>
 </details>
