@@ -196,4 +196,10 @@ v1.11.1 - 24 November 2024
  <li>Monstrous Nightmares will no longer T-Pose when sitting</li>
  <li>Added Book of Dragons entry for the Snow Wraith</li>
 </ul>
+<b>HOTFIX</b>
+<br>
+v1.11.2 - 24 November 2024
+<ul>
+ <li>Removed developer code that filled the chat with numbers when a night fury was eligible to spawn</li>
+</ul>
 </details>
