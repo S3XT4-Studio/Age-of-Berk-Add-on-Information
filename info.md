@@ -202,7 +202,7 @@ This Strike Class dragon is protective, but can be tamed using the following foo
 Light Furies can shoot plasma blasts when ridden. The fire is hot enough to set most materials ablaze.
 <br>
 <br>
-Light Furies do not spawn naturally, and can rarely be found in dragon cages.
+Light Furies do not spawn naturally, and can rarely be found in Dragon Cages.
 
 </details>
 
@@ -277,6 +277,8 @@ Sand Wraiths spawn anywhere where there is sand for them to hunt in. The Sand Wr
 <br>
 Sand Wraiths shoot a ball of molten sand that, while very warm, will not set blocks on fire.
 <br>
+<br>
+This dragon can be found in Dragon Cages
  
 </details>
 
@@ -336,6 +338,8 @@ Skrills spawn in Jagged Peaks biomes, where they are closest to the lightning. T
 <br>
 Skrills can shoot lightning blasts that will electrocute anything unlucky enough to be hit by them. They are very dangerous.
 <br>
+<br>
+This dragon can be found in Dragon Cages
  
 </details>
 
