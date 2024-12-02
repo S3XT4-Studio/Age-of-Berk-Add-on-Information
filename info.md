@@ -415,6 +415,8 @@ They behave as normal Montrous Nightmares.
 
 <details>
 <summary>Dragon Hunter</summary>
+ <img src="assets/dragon_hunter.png" alt="Dragon Hunter">
+<br>
 This new type of illager will only attack players when provoked, but attacks dragons on sight.
 <br> 
 <br> 
