@@ -64,8 +64,13 @@ The dragon will play a sitting animation, and will be unable to move, whether un
 Every tameable dragon can breed as an adult.
 <br> 
 <br> 
-To make a dragon breed, you must have two trained adult dragons of the same type. Feed them the same food you would train them with. They will then breed, and lay an egg. 
-<br> 
+To make a dragon breed, you must have two trained adult dragons of the same type*. Feed them the same food you would train them with**. They will then breed, and lay an egg. 
+<br>
+<br>
+ *The only exception are Night Furies and Light Furies, which breed to create a hybrid Night Light.
+<br>
+ **Skrills are bred with raw cod or raw salmon, despite being tamed with iron.
+<br>
 <br>
 When the egg hatches, an untrained baby dragon will appear. Train it, and then wait for it to grow up, or feed it more food to make it grow up faster!
 <br> 
