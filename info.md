@@ -72,7 +72,7 @@ When the egg hatches, an untrained baby dragon will appear. Train it, and then w
  
 </details>
 
-## Individual Dragons
+## Normal Dragons
 
 <details>
 <summary>Deadly Nadder</summary>
@@ -122,7 +122,7 @@ This Boulder Class dragon is protective, but can be tamed at any age using the f
  - Granite
 <br>
 <br>
-Nadders can shoot lava blasts when ridden. The lava blast is hot enough to set most materials ablaze.
+Gronckles can shoot lava blasts when ridden. The lava blast is hot enough to set most materials ablaze.
 <br>
 <br>
 This dragon can be found in Dragon Cages
@@ -180,6 +180,42 @@ Night Furies can shoot plasma blasts when ridden. The fire is hot enough to set 
 <br>
 <br>
 Only one night fury will spawn at a time, and until that night fury is trained, you will not find another. This makes them incredibly rare to find.
+
+</details>
+
+<details>
+<summary>Light Fury</summary>
+ <img src="assets/light_fury.png" alt="Light Fury">
+<br>
+This Strike Class dragon is protective, but can be tamed using the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Light Furies can shoot plasma blasts when ridden. The fire is hot enough to set most materials ablaze.
+<br>
+<br>
+Light Furies do not spawn naturally, and can rarely be found in dragon cages.
+
+</details>
+
+<details>
+<summary>Night Lights</summary>
+ <img src="assets/night_lights.png" alt="Night Lights">
+<br>
+This Strike Class dragon is passive, and can be tamed using the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Night Lights remain cute and little forever, that is, they never grow up.
+<br>
+<br>
+They cannot spawn naturally, and can only be obtained by breeding a rare Light Fury and even rarer Night Fury together. 
 
 </details>
 <details>
@@ -299,22 +335,71 @@ Skrills can shoot lightning blasts that will electrocute anything unlucky enough
 </details>
 
 <details>
-<summary>Snow Wraith</summary>
- <img src="assets/snow_wraith.png" alt="Snow Wraith">
+<summary>Hobblegrunt</summary>
+ <img src="assets/hobblegrunt.png" alt="Hobblegrunt">
 <br>
-This Strike Class dragon is aggressive, and can only be tamed as a baby. They can be be tamed using the following items:
+This Stoker Class dragon is passive, and can be tamed using the following foods:
 <br>
  - Raw Cod
 <br>
  - Raw Salmon
 <br>
 <br>
-Snow Wraiths can be found in frozen biomes, and will become immediately hostile to players and wandering traders it sees.
-<br>
-<br>
-Snow Wraiths can shoot ice blasts, which damage and temporarily slow down victims. They should be considered very dangerous.
+Hobblegrunts can shoot sustained blasts of fire when ridden. The fire is hot enough to set most materials ablaze.
 <br>
  
+</details>
+
+<details>
+<summary>Rumblehorn</summary>
+ <img src="assets/rumblehorn.png" alt="Rumblehorn">
+<br>
+This Tracker Class dragon is protective, and can be tamed using the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Rumblehorns can shoot fireballs when ridden. The fire is hot enough to set most materials ablaze.
+<br>
+ 
+</details>
+
+<details>
+<summary>Buffalord</summary>
+ <img src="assets/buffalord.png" alt="Buffalord">
+<br>
+This Mystery Class dragon is passive, and cannot be tamed. They simply wander around, eating grass and enjoying their life
+<br>
+<br>
+Buffalords spawn wherever there is grass for them to eat
+<br>
+ 
+</details>
+
+## Special Dragons
+This category include special variants and seasonal dragons
+<details>
+<summary>Icy Gronckle</summary>
+ <img src="assets/ice_gronckle.png" alt="Icy Gronckle">
+<br>
+This special variant of a Gronckle can only spawn during the month of December, or using a spawn egg any time of the year.
+<br>
+<br>
+They behave as normal Gronckles
+<br>
+</details>
+
+<details>
+<summary>Pale Nightmare.</summary>
+ <img src="assets/pale_nightmare.png" alt="Pale Nightmare">
+<br>
+This special variant of a Monstrous Nightmare can only spawn in the Pale Garden biome.
+<br>
+<br>
+They behave as normal Montrous Nightmares.
+<br>
 </details>
 
 ## Other Mobs
@@ -332,23 +417,27 @@ Their hate of dragons causes most of them to attack the Hunters on sight. Their 
 
 <details>
 <summary>Dragon Hunter Ship</summary>
-Coming in 2 varieties, these ships are crawling with Dragon Hunters.
+ <img src="assets/hunter_ship.png" alt="Dragon Hunter Ship">
+<br>
+These ships are crawling with Dragon Hunters.
 <br> 
 <br> 
 Cages can be found on ships, which can only be opened using a cage key. A cage key can be found rarely on a Dragon Hunter Ship, but much more commonly in Hunter Watchtowers, where there are guaranteed to be at least 4.
 <br> 
-Loot on these ships includes arrows, bows, crossbows, emeralds, cage keys, and much more.
+Loot on these ships includes arrows, bows, dragon eggs, crossbows, emeralds, pottery sherds, cage keys, and much more.
 <br> 
 </details>
 
 <details>
 <summary>Hunter Watchtower</summary>
+ <img src="assets/watchtower.png" alt="Hunter Watchtower">
+<br>
 Hunter Watchtowers can be found in most biomes, and are filled with Dragon Hunters strategizing about their next attack.
 <br> 
 <br> 
 2 cages can be found around watchtowers, which can only be opened using a cage key. A cage key can be found rarely on a Dragon Hunter Ship, but much more commonly in Hunter Watchtowers, where there are guaranteed to be at least 4. Keep the extra keys, because cages can also be found on Dragon Hunter Ships
 <br> 
-Loot in these towers includes arrows, bows, crossbows, dragon eggs, the tame pottery sherd, dragon saddles, and much more.
+Loot in these towers includes arrows, bows, crossbows, dragon eggs, pottery sherds, dragon saddles, and much more.
 <br> 
 </details>
 
