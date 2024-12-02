@@ -392,7 +392,7 @@ They behave as normal Gronckles
 </details>
 
 <details>
-<summary>Pale Nightmare.</summary>
+<summary>Pale Nightmare</summary>
  <img src="assets/pale_nightmare.png" alt="Pale Nightmare">
 <br>
 This special variant of a Monstrous Nightmare can only spawn in the Pale Garden biome.
