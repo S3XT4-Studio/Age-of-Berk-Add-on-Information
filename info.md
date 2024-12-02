@@ -384,7 +384,7 @@ This category include special variants and seasonal dragons
 <summary>Icy Gronckle</summary>
  <img src="assets/ice_gronckle.png" alt="Icy Gronckle">
 <br>
-This special variant of a Gronckle can only spawn during the month of December, or using a spawn egg any time of the year.
+This special variant of a Gronckle can only spawn in icy biomes during the month of December, or using a spawn egg any time of the year.
 <br>
 <br>
 They behave as normal Gronckles
