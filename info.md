@@ -42,7 +42,7 @@ Use your normal movement controls to move other directions.
 <br> 
 While riding a dragon, you can make it breathe fire. There is a 10 second cooldown between shots
 <br> 
-- On touch controls, tap the circle in front of you when it turns green to shoot fire in the direction you are looking
+- On touch controls, use the Shoot Fire Command to shoot fire in the direction you are looking
 <br> 
 - On keyboard/mouse or console controller, attack to shoot fire in the direction you are looking
 <br> 
