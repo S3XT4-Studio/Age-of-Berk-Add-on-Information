@@ -203,3 +203,28 @@ v1.11.2 - 24 November 2024
  <li>Removed developer code that filled the chat with numbers when a night fury was eligible to spawn</li>
 </ul>
 </details>
+
+<details>
+<summary>1.12.X</summary>
+<b>MINOR VERSION</b>
+<br>
+v1.12.0 - 4 December 2024
+<ul>
+<li>Added Hobblegrunts, Rumblehorns, Night Lights, Light Furies, and Buffalords</li>
+<li>Hobblegrunts, Rumblehorns, and Buffalords spawn naturally </li>
+<li>Light Furies can be found in Dragon Cages.</li>
+<li>Night Lights can be obtained by breeding a Light Fury and Night Fury, and they never grow up </li>
+<li>Buffalords are untrainable and have no egg. They just want to eat grass </li>
+<li>Added a new special variant dragon: the Pale Nightmare. They spawn in Pale Gardens</li>
+<li>Added a new seasonal variant dragon, the Icy Gronckle. They spawn in Icy biomes during December</li>
+<li>Overhauled Hunter Watchtowers, which will now spawn less frequently, have better loot, and blend with terrain better.</li>
+<li>Overhauled Dragon Hunter Ships, now resemble the hunter ships from Race to the Edge more, and have better loot.</li>
+<li>Dragon Cages no longer fall out of Hunter Ships.</li>
+<li>Parts of Hunter Ships are no longer waterlogged.</li>
+<li>Dragon Hunters now have better animations.</li>
+<li>Reworked dragon cages... again. They are now less buggy.</li>
+<li>Players no longer have collision with other players.</li>
+<li>Nightmare wings no longer rotate strangely.</li>
+<li>Dragons should no longer despawn when tamed.</li>
+</ul> 
+</details>
