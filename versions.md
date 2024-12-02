@@ -218,7 +218,8 @@ v1.12.0 - 4 December 2024
 <li>Added a new special variant dragon: the Pale Nightmare. They spawn in Pale Gardens</li>
 <li>Added a new seasonal variant dragon, the Icy Gronckle. They spawn in Icy biomes during December</li>
 <li>Overhauled Hunter Watchtowers, which will now spawn less frequently, have better loot, and blend with terrain better.</li>
-<li>Overhauled Dragon Hunter Ships, now resemble the hunter ships from Race to the Edge more, and have better loot.</li>
+<li>Removed Control Scheme Option in Settings. The code now detects this itself. You can still change Camera Perspective there.</li>
+<li>Dragons should no longer despawn when tamed.</li>
 <li>Dragon Cages no longer fall out of Hunter Ships.</li>
 <li>Parts of Hunter Ships are no longer waterlogged.</li>
 <li>Dragon Hunters now have better animations.</li>
