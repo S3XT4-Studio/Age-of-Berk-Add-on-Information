@@ -216,6 +216,7 @@ v1.12.0 - 4 December 2024
     <li>Light Furies can be found in Dragon Cages.</li>
     <li>Night Lights can be obtained by breeding a Light Fury and Night Fury, and they never grow up </li>
     <li>Buffalords are untrainable and have no egg. They just want to eat grass </li>
+    <li>Book of Dragons entries are available for all five</li>
   <li>Added a new special variant dragon: the Pale Nightmare. They spawn in Pale Gardens</li>
   <li>Added a new seasonal variant dragon, the Icy Gronckle. They spawn in Icy biomes during December</li>
  <li>Added diving ability, which can be activiated by looking down past 65°</li>
