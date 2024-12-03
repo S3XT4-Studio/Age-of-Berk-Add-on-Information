@@ -21,7 +21,7 @@ Go to [Version History](/versions.md) to read changelogs and see release dates
 Without these, the add-on will not work.
 <br>
 <br>
-![Experiments](assets/experiment.png)
+![Experiments](assets/experiments.png)
 <br>
 
 ### Installation
