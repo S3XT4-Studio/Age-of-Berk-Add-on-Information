@@ -210,22 +210,27 @@ v1.11.2 - 24 November 2024
 <br>
 v1.12.0 - 4 December 2024
 <ul>
-<li>Added Hobblegrunts, Rumblehorns, Night Lights, Light Furies, and Buffalords</li>
-<li>Hobblegrunts, Rumblehorns, and Buffalords spawn naturally </li>
-<li>Light Furies can be found in Dragon Cages.</li>
-<li>Night Lights can be obtained by breeding a Light Fury and Night Fury, and they never grow up </li>
-<li>Buffalords are untrainable and have no egg. They just want to eat grass </li>
-<li>Added a new special variant dragon: the Pale Nightmare. They spawn in Pale Gardens</li>
-<li>Added a new seasonal variant dragon, the Icy Gronckle. They spawn in Icy biomes during December</li>
-<li>Overhauled Hunter Watchtowers, which will now spawn less frequently, have better loot, and blend with terrain better.</li>
-<li>Removed Control Scheme Option in Settings. The code now detects this itself. You can still change Camera Perspective there.</li>
-<li>Dragons should no longer despawn when tamed.</li>
-<li>Dragon Cages no longer fall out of Hunter Ships.</li>
-<li>Parts of Hunter Ships are no longer waterlogged.</li>
-<li>Dragon Hunters now have better animations.</li>
-<li>Reworked dragon cages... again. They are now less buggy.</li>
-<li>Players no longer have collision with other players.</li>
-<li>Nightmare wings no longer rotate strangely.</li>
-<li>Dragons should no longer despawn when tamed.</li>
+<li><b>Additions</b></li>
+  <li>Added Hobblegrunts, Rumblehorns, Night Lights, Light Furies, and Buffalords</li>
+    <li>Hobblegrunts, Rumblehorns, and Buffalords spawn naturally </li>
+    <li>Light Furies can be found in Dragon Cages.</li>
+    <li>Night Lights can be obtained by breeding a Light Fury and Night Fury, and they never grow up </li>
+    <li>Buffalords are untrainable and have no egg. They just want to eat grass </li>
+  <li>Added a new special variant dragon: the Pale Nightmare. They spawn in Pale Gardens</li>
+  <li>Added a new seasonal variant dragon, the Icy Gronckle. They spawn in Icy biomes during December</li>
+ <li>Added diving ability, which can be activiated by looking down past 65°</li>
+ 
+<li><b>Changes</b></li>
+  <li>Overhauled Hunter Watchtowers, which will now spawn less frequently, have better loot, and blend with terrain better.</li>
+  <li>Removed Control Scheme Option in Settings. The code now detects this itself. You can still change Camera Perspective there.</li>
+  
+<li><b>Fixes</b></li>
+  <li>Dragons should no longer despawn when tamed.</li>
+  <li>Dragon Cages no longer fall out of Hunter Ships.</li>
+  <li>Parts of Hunter Ships are no longer waterlogged.</li>
+  <li>Dragon Hunters now have better animations.</li>
+  <li>Reworked dragon cages... again. They are now less buggy.</li>
+  <li>Players no longer have collision with other players.</li>
+  <li>Nightmare wings no longer rotate strangely.</li>
 </ul> 
 </details>
