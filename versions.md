@@ -223,6 +223,7 @@ v1.12.0 - 4 December 2024
 <li><b>Changes</b></li>
   <li>Overhauled Hunter Watchtowers, which will now spawn less frequently, have better loot, and blend with terrain better.</li>
   <li>Removed Control Scheme Option in Settings. The code now detects this itself. You can still change Camera Perspective there.</li>
+  <li>Dragon Hunters now attack players on sight, instead of only once attacked.</li>
   
 <li><b>Fixes</b></li>
   <li>Dragons should no longer despawn when tamed.</li>
