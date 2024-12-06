@@ -6,11 +6,9 @@ permalink: /downloads
  
 
 ### Downloads
-<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.11.2/Age-of-Berk-Test-v1-11-2.mcaddon">Test v1.11.2 Add-on</a>
+<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.12/Age-of-Berk-Test-v1-12-0.mcaddon">Test v1.12.0 Add-on</a>
 <br>
-<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.11.1/Age-of-Berk-Portuguese-Translation-v1-11-1.mcaddon">Teste de tradução v1.11.1</a>
-<br>
-<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.8.0/Age.of.Berk.Achievements.v1.8.0.mcaddon">English Achievements v1.8.0(Portuguese not yet available)</a>
+<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.12/Age-of-Berk-Portuguese-Translation-v1-12-0.mcaddon">Teste de tradução v1.12.0</a>
 <br>
 <br>
 ### Version History
@@ -21,7 +19,7 @@ Go to [Version History](/versions.md) to read changelogs and see release dates
 Without these, the add-on will not work.
 <br>
 <br>
-![Experiments](assets/experiment.png)
+![Experiments](assets/experiments.png)
 <br>
 
 ### Installation
