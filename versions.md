@@ -208,7 +208,7 @@ v1.11.2 - 24 November 2024
 <summary>1.12.X</summary>
 <b>MINOR VERSION</b>
 <br>
-v1.12.0 - 4 December 2024
+v1.12.0 - 5 December 2024
 <ul>
 <li><b>Additions</b></li>
   <li>Added Hobblegrunts, Rumblehorns, Night Lights, Light Furies, and Buffalords</li>
