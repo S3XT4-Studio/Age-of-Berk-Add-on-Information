@@ -14,6 +14,7 @@ The most important details about the dragons are included in the in-game Book of
 Extra information about dragons, and information about the rest of the features, can be found <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/info">here</a>.
 
 <br>
+<br>
 </details>
 
 <details>
@@ -25,6 +26,7 @@ Make sure the add-on is installed properly (look at the <b>Technical Details</b>
 Check that what is happening isn't a <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/bugs">known bug</a>. If it isn't there, and you are certain the problem isn't on your end, make a detailed bug report. The more details, the more likely we will be able to fix it. If you don't give us all the details listed, we may not be able to figure out what is wrong.
 
 <br>
+<br>
 </details>
 
 <details>
@@ -33,15 +35,22 @@ Check that what is happening isn't a <a href="https://s3xt4-studio.github.io/Age
 Join <a href="https://discord.gg/d2j6aUTvq4">Our Discord</a>! We have a special area for ideas, and also have frequent polls and questions that allow you to shape the future of Age of Berk!
 
 <br>
+<br>
 </details>
 
 ## Technical Details
 
 <details>
-<summary>What Minecraft version is the add-on for?</summary>
-<br> 
+<summary>What Minecraft version is the add-on for? / Why doesn't this work in Education Edition? / Why do you only support the latest version of Bedrock?</summary>
+<br>
 The add-on will almost always work exclusively in the most recent version of Minecraft. If the add-on isn't even installing, make sure you are updated to the latest version of Minecraft. You can find that <a href="https://feedback.minecraft.net/hc/en-us/sections/360001186971-Release-Changelogs">here</a>. (look for the first version that says Bedrock)
- 
+<br>
+<br>
+The reason we do not maintain older Bedrock versions or any Education Edition versions is because it prevents us from moving the add-on forward. For example, 1.21.70 gave us the option to add custom item categories in creative, and 1.21.80 will give us the option to add custom slash commands, like /give or /tp, specific to an add-on. If we were keeping the add-on usable in older versions, we wouldn't be able to take advantage of new add-on features, and the add-on would suffer.
+<br>
+<br>
+If the add-on has not had an update recently, it will likely work in any version released at the time of or after the add-on's update. If the last update for the add-on was during 1.21.40, then it should work in 1.21.50, 1.21.60, etc. until a new add-on version is released.
+<br>
 <br>
 </details>
 
@@ -91,6 +100,7 @@ Updating an add-on can cause some problems when done incorrectly, so please foll
 - Check that new features are available and that you haven't lost any progress before calling the updating process a success.
  
 <br>
+<br>
 </details>
 
 <details>
@@ -107,5 +117,6 @@ Worlds that have previously used one version can not use a lower version without
 <br> 
 Bug reports are only accepted for the latest version. Please double check that the bug occurs in the latest version before submitting a <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/bugs">bug report</a>.
  
+<br>
 <br>
 </details>
