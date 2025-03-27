@@ -1,6 +1,5 @@
 ---
 title: Dragons Edge
-permalink: /server
 ---
 
 ![Server Banner](assets/server_banner.png)
