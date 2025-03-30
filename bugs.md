@@ -1,6 +1,7 @@
 ---
 title: Known Bugs
 permalink: /bugs
+exclude: true
 ---
 
 Age of Berk has had countless hours of work put into it, but some bugs still slip through. **After verfiying that it is not a known bug** (check below), **please report bugs at [this link](https://docs.google.com/forms/d/1Wi3go3pZFQaGHhHvkKgHEykInerdWlRazn41bpYdGGI/edit#responses)** so that we can make the add-on better for everyone.
