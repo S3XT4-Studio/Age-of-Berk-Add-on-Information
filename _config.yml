@@ -8,5 +8,11 @@ minima:
   date_format: "%b %d, %y"
   social_links:
     
+header_pages:
+    - index.md
+    - downloads.md
+    - info.md
+    - faq.md
+    - about_us.md
   
 google_analytics: G-KPDDEY2P5Z
