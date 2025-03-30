@@ -42,7 +42,7 @@ Use your normal movement controls to move other directions.
 <br> 
 While riding a dragon, you can make it breathe fire. There is a 10 second cooldown between shots
 <br> 
-- On touch controls, use the Shoot Fire Command to shoot fire in the direction you are looking
+- On touch controls, tap the circle in front of you when it turns green to shoot fire in the direction you are looking
 <br> 
 - On keyboard/mouse or console controller, attack to shoot fire in the direction you are looking
 <br> 
@@ -64,20 +64,15 @@ The dragon will play a sitting animation, and will be unable to move, whether un
 Every tameable dragon can breed as an adult.
 <br> 
 <br> 
-To make a dragon breed, you must have two trained adult dragons of the same type*. Feed them the same food you would train them with**. They will then breed, and lay an egg. 
-<br>
-<br>
- *The only exception are Night Furies and Light Furies, which breed to create a hybrid Night Light.
-<br>
- **Skrills are bred with raw cod or raw salmon, despite being tamed with iron.
-<br>
+To make a dragon breed, you must have two trained adult dragons of the same type. Feed them the same food you would train them with. They will then breed, and lay an egg. 
+<br> 
 <br>
 When the egg hatches, an untrained baby dragon will appear. Train it, and then wait for it to grow up, or feed it more food to make it grow up faster!
 <br> 
  
 </details>
 
-## Normal Dragons
+## Individual Dragons
 
 <details>
 <summary>Deadly Nadder</summary>
@@ -127,7 +122,7 @@ This Boulder Class dragon is protective, but can be tamed at any age using the f
  - Granite
 <br>
 <br>
-Gronckles can shoot lava blasts when ridden. The lava blast is hot enough to set most materials ablaze.
+Nadders can shoot lava blasts when ridden. The lava blast is hot enough to set most materials ablaze.
 <br>
 <br>
 This dragon can be found in Dragon Cages
@@ -187,42 +182,6 @@ Night Furies can shoot plasma blasts when ridden. The fire is hot enough to set 
 Only one night fury will spawn at a time, and until that night fury is trained, you will not find another. This makes them incredibly rare to find.
 
 </details>
-
-<details>
-<summary>Light Fury</summary>
- <img src="assets/light_fury.png" alt="Light Fury">
-<br>
-This Strike Class dragon is protective, but can be tamed using the following foods:
-<br>
- - Raw Cod
-<br>
- - Raw Salmon
-<br>
-<br>
-Light Furies can shoot plasma blasts when ridden. The fire is hot enough to set most materials ablaze.
-<br>
-<br>
-Light Furies do not spawn naturally, and can rarely be found in Dragon Cages.
-
-</details>
-
-<details>
-<summary>Night Lights</summary>
- <img src="assets/night_lights.png" alt="Night Lights">
-<br>
-This Strike Class dragon is passive, and can be tamed using the following foods:
-<br>
- - Raw Cod
-<br>
- - Raw Salmon
-<br>
-<br>
-Night Lights remain cute and little forever, that is, they never grow up.
-<br>
-<br>
-They cannot spawn naturally, and can only be obtained by breeding a rare Light Fury and even rarer Night Fury together. 
-
-</details>
 <details>
 <summary>Whispering Death</summary>
  <img src="assets/whispering_death.png" alt="Whispering Death">
@@ -277,8 +236,6 @@ Sand Wraiths spawn anywhere where there is sand for them to hunt in. The Sand Wr
 <br>
 Sand Wraiths shoot a ball of molten sand that, while very warm, will not set blocks on fire.
 <br>
-<br>
-This dragon can be found in Dragon Cages
  
 </details>
 
@@ -338,8 +295,6 @@ Skrills spawn in Jagged Peaks biomes, where they are closest to the lightning. T
 <br>
 Skrills can shoot lightning blasts that will electrocute anything unlucky enough to be hit by them. They are very dangerous.
 <br>
-<br>
-This dragon can be found in Dragon Cages
  
 </details>
 
@@ -362,80 +317,10 @@ Snow Wraiths can shoot ice blasts, which damage and temporarily slow down victim
  
 </details>
 
-<details>
-<summary>Hobblegrunt</summary>
- <img src="assets/hobblegrunt.png" alt="Hobblegrunt">
-<br>
-This Stoker Class dragon is passive, and can be tamed using the following foods:
-<br>
- - Raw Cod
-<br>
- - Raw Salmon
-<br>
-<br>
-Hobblegrunts can shoot sustained blasts of fire when ridden. The fire is hot enough to set most materials ablaze.
-<br>
- 
-</details>
-
-<details>
-<summary>Rumblehorn</summary>
- <img src="assets/rumblehorn.png" alt="Rumblehorn">
-<br>
-This Tracker Class dragon is protective, and can be tamed using the following foods:
-<br>
- - Raw Cod
-<br>
- - Raw Salmon
-<br>
-<br>
-Rumblehorns can shoot fireballs when ridden. The fire is hot enough to set most materials ablaze.
-<br>
- 
-</details>
-
-<details>
-<summary>Buffalord</summary>
- <img src="assets/buffalord.png" alt="Buffalord">
-<br>
-This Mystery Class dragon is passive, and cannot be tamed. They simply wander around, eating grass and enjoying their life
-<br>
-<br>
-Buffalords spawn wherever there is grass for them to eat
-<br>
- 
-</details>
-
-## Special Dragons
-This category include special variants and seasonal dragons
-<details>
-<summary>Icy Gronckle</summary>
- <img src="assets/ice_gronckle.png" alt="Icy Gronckle">
-<br>
-This special variant of a Gronckle can only spawn in icy biomes during the month of December, or using a spawn egg any time of the year.
-<br>
-<br>
-They behave as normal Gronckles
-<br>
-</details>
-
-<details>
-<summary>Pale Nightmare</summary>
- <img src="assets/pale_nightmare.png" alt="Pale Nightmare">
-<br>
-This special variant of a Monstrous Nightmare can only spawn in the Pale Garden biome.
-<br>
-<br>
-They behave as normal Montrous Nightmares.
-<br>
-</details>
-
 ## Other Mobs
 
 <details>
 <summary>Dragon Hunter</summary>
- <img src="assets/dragon_hunter.png" alt="Dragon Hunter">
-<br>
 This new type of illager will only attack players when provoked, but attacks dragons on sight.
 <br> 
 <br> 
@@ -447,27 +332,23 @@ Their hate of dragons causes most of them to attack the Hunters on sight. Their 
 
 <details>
 <summary>Dragon Hunter Ship</summary>
- <img src="assets/hunter_ship.png" alt="Dragon Hunter Ship">
-<br>
-These ships are crawling with Dragon Hunters.
+Coming in 2 varieties, these ships are crawling with Dragon Hunters.
 <br> 
 <br> 
 Cages can be found on ships, which can only be opened using a cage key. A cage key can be found rarely on a Dragon Hunter Ship, but much more commonly in Hunter Watchtowers, where there are guaranteed to be at least 4.
 <br> 
-Loot on these ships includes arrows, bows, dragon eggs, crossbows, emeralds, pottery sherds, cage keys, and much more.
+Loot on these ships includes arrows, bows, crossbows, emeralds, cage keys, and much more.
 <br> 
 </details>
 
 <details>
 <summary>Hunter Watchtower</summary>
- <img src="assets/watchtower.png" alt="Hunter Watchtower">
-<br>
 Hunter Watchtowers can be found in most biomes, and are filled with Dragon Hunters strategizing about their next attack.
 <br> 
 <br> 
 2 cages can be found around watchtowers, which can only be opened using a cage key. A cage key can be found rarely on a Dragon Hunter Ship, but much more commonly in Hunter Watchtowers, where there are guaranteed to be at least 4. Keep the extra keys, because cages can also be found on Dragon Hunter Ships
 <br> 
-Loot in these towers includes arrows, bows, crossbows, dragon eggs, pottery sherds, dragon saddles, and much more.
+Loot in these towers includes arrows, bows, crossbows, dragon eggs, the tame pottery sherd, dragon saddles, and much more.
 <br> 
 </details>
 
@@ -479,7 +360,7 @@ Loot in these towers includes arrows, bows, crossbows, dragon eggs, pottery sher
 <center>
 <div class="videoWrapper">
 <iframe
-  src="https://www.youtube.com/embed/?listType=playlist&list=PLGq1ll6BVhtXJGGCBka1MuCriUrnHykT2&index=1"
+  src="https://www.youtube.com/embed/?listType=playlist&list=PLGq1ll6BVhtXJGGCBka1MuCriUrnHykT2&index=3"
   title="Showcase by Smithy MC"
   width="800"
   height="450"
@@ -491,14 +372,14 @@ Loot in these towers includes arrows, bows, crossbows, dragon eggs, pottery sher
 <center>
 <div class="videoWrapper">
 <iframe
-  src="https://www.youtube.com/embed/?listType=playlist&list=PLGq1ll6BVhtXJGGCBka1MuCriUrnHykT2&index=2"
+  src="https://www.youtube.com/embed/?listType=playlist&list=PLGq1ll6BVhtXJGGCBka1MuCriUrnHykT2&index=1"
   title="Showcase by Smithy MC"
   width="320"
   height="180"
   allowfullscreen>
 </iframe>
 <iframe
-  src="https://www.youtube.com/embed/?listType=playlist&list=PLGq1ll6BVhtXJGGCBka1MuCriUrnHykT2&index=3"
+  src="https://www.youtube.com/embed/?listType=playlist&list=PLGq1ll6BVhtXJGGCBka1MuCriUrnHykT2&index=2"
   title="Showcase by Smithy MC"
   width="320"
   height="180"
