@@ -12,6 +12,7 @@ header_pages:
     - index.md
     - downloads.md
     - info.md
+    - versions.md
     - faq.md
     - about_us.md
   
