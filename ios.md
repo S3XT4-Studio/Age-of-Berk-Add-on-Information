@@ -1,7 +1,6 @@
 ---
 title: iOS Import Issues
 permalink: /ios
-exclude: true
 ---
 
 iOS has an issue where some packs will fail to import. If you experience this issue, then follow the instructions from Mojang below to import your pack
