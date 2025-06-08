@@ -5,10 +5,9 @@ remote_theme: jekyll/minima
 
 minima:
   skin: "dark"
-  date_format: "%b %d, %y"
+  date_format: "%d %b %y"
   social_links:
-    
-header_pages:
+  nav_pages:
     - index.md
     - downloads.md
     - info.md

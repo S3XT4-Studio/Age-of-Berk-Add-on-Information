@@ -60,8 +60,24 @@ The dragon will play a sitting animation, and will be unable to move, whether un
 </details>
 
 <details>
+<summary>Hatching</summary>
+Dragons Eggs can be used to obtain any baby variant of a dragon. However, they require special care to be hatched
+<br> 
+<br> 
+Dragon Eggs will only hatch when certain conditions are met. Otherwise, they can be used as decoration.
+<br>
+<br>
+To hatch an egg, place it on top of an Incubation Pedestal, and fill the pedestal using a bucket of lava. The egg will emit black particles, and hatch soon after.
+ <img src="assets/incubation_pedestal_craft.png" alt="Crafting Recipe">
+<br> 
+ <img src="assets/incubation_pedestal.png" alt="Incubation">
+<br> 
+ 
+</details>
+
+<details>
 <summary>Breeding</summary>
-Every tameable dragon can breed as an adult.
+Every tameable dragon can breed as an adult. There is a known issue that causes dragons that were tamed as a baby to not be able to breed. We are working out a solution for this.
 <br> 
 <br> 
 To make a dragon breed, you must have two trained adult dragons of the same type*. Feed them the same food you would train them with**. They will then breed, and lay an egg. 
@@ -184,7 +200,10 @@ This Strike Class dragon is protective, but can be tamed using the following foo
 Night Furies can shoot plasma blasts when ridden. The fire is hot enough to set most materials ablaze.
 <br>
 <br>
-Only one night fury will spawn at a time, and until that night fury is trained, you will not find another. This makes them incredibly rare to find.
+Night Furies can be equipped with colorful Night Fury Tail Fins. These are are way to add cosmetic personalization to your dragon.
+<br>
+<br>
+Night Furies have only a 12% chance to spawn during a full night. This makes them incredibly rare to find.
 
 </details>
 
@@ -237,7 +256,7 @@ This Boulder Class dragon is extremely aggressive, and can only be trained as a 
 Whispering Deaths emerge from beneath, and will become immediately hostile to players and wandering traders it sees.
 <br>
 <br>
-Nadders can shoot rings of fire when ridden. The fire is hot enough to set most materials ablaze.
+Whispering Deaths can shoot rings of fire when ridden. The fire is hot enough to set most materials ablaze.
 <br>
  
 </details>
@@ -406,6 +425,80 @@ Buffalords spawn wherever there is grass for them to eat
  
 </details>
 
+<details>
+<summary>Typhoomerang</summary>
+ <img src="assets/typhoomerang.png" alt="Typhoomerang">
+<br>
+This Stoker Class dragon is protective, and can be tamed using the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+<br>
+Typhoomerangs can shoot streams of fire when ridden. The fire is hot enough to set most materials ablaze.
+<br>
+ 
+</details>
+
+<details>
+<summary>Hobgobbler</summary>
+ <img src="assets/hobgobbler.png" alt="Hobgobbler">
+<br>
+This Mystery Class dragon is protective, and can be tamed using any edible items.
+<br>
+<br>
+Hobgobblers are too small to be ridden, and will instead ride you. 
+<br>
+<br>
+They are very defensive of their owners and other Hobgobblers, and will swarm potential enemies
+<br>
+<br>
+When left alone, untamed Hobgobblers will duplicate rapidly.
+<br>
+<br>
+Hobgobblers are mischevious, and will snatch up any food that is left on the ground, before devouring it.
+<br>
+ 
+</details>
+
+<details>
+<summary>Death Song</summary>
+ <img src="assets/death_song.png" alt="Death Song">
+<br>
+This Mystery Class dragon is protective, and can be tamed using the following foods:
+<br>
+ - Raw Cod
+<br>
+ - Raw Salmon
+<br>
+ - Cooked Chicken
+<br>
+<br>
+Death Songs shoot Amber Blasts that trap victims. The Amber Chunks will break after about 45 seconds, but can be removed early using Monstrous Nightmare Gel and a lit Dragon Blade.
+<br>
+ 
+</details>
+
+<details>
+<summary>Screaming Death</summary>
+ <img src="assets/screaming_death.png" alt="Screaming Death">
+<br>
+This Boulder Class dragon is extremely aggressive, and can only be trained as a baby, with the following foods
+<br>
+ - Stone
+<br>
+ - Deepslate
+<br>
+<br>
+Screamings Deaths do not spawn naturally, but can be hatched from an egg that is rarely laid by Whispering Deaths
+<br>
+<br>
+Screaming Deaths can shoot fireballs when ridden. The fire is hot enough to set most materials ablaze.
+<br>
+ 
+</details>
+
 ## Special Dragons
 This category include special variants and seasonal dragons
 <details>
@@ -456,6 +549,8 @@ Cages can be found on ships, which can only be opened using a cage key. A cage k
 <br> 
 Loot on these ships includes arrows, bows, dragon eggs, crossbows, emeralds, pottery sherds, cage keys, and much more.
 <br> 
+Inside the captain's room, a Dragon Eye can be seen on the desk. Dragon Eye Lenses can rarely be found in the loot of the ship.
+<br> 
 </details>
 
 <details>
@@ -468,6 +563,57 @@ Hunter Watchtowers can be found in most biomes, and are filled with Dragon Hunte
 2 cages can be found around watchtowers, which can only be opened using a cage key. A cage key can be found rarely on a Dragon Hunter Ship, but much more commonly in Hunter Watchtowers, where there are guaranteed to be at least 4. Keep the extra keys, because cages can also be found on Dragon Hunter Ships
 <br> 
 Loot in these towers includes arrows, bows, crossbows, dragon eggs, pottery sherds, dragon saddles, and much more.
+<br> 
+</details>
+
+<details>
+<summary>Death Song Nest</summary>
+ <img src="assets/death_song_nest.png" alt="Death Song Nest">
+<br>
+Death Song Nests are the only place to find the Death Song dragon. While they are very dangerous dragons, they will wait for you to make the first move. You can choose to attack them, or you can gain their trust with fish or chicken.
+<br> 
+</details>
+
+<details>
+<summary>Boneknapper Nest</summary>
+ <img src="assets/boneknapper_nest.png" alt="Boneknapper Nest">
+<br>
+Boneknapper Nests are the home of the Boneknapper Mini Boss. These fearsome dragons will attack all players on sight. If you are lucky enough to defeat one, it will drop its egg, which can be used to hatch a friendlier boneknapper.
+<br> 
+<br>
+A barrel has been left in the nest, which contains a Boneknapper Dragon Eye Lens.
+<br> 
+</details>
+
+<details>
+<summary>Sentinel Nest</summary>
+ <img src="assets/sentinel_nest.png" alt="Sentinel Nest">
+<br>
+Sentinel Nests are the home of the Sentinel Mini Boss. These guardians will only be awoken by an interaction by a player. If awoken, they will not stop trying to kill the intruder. If you are lucky enough to defeat one, it will drop its egg, which can be used to hatch a friendlier sentinel.
+<br> 
+<br>
+A barrel has been left in the nest, which contains a Sentinel Dragon Eye Lens.
+<br> 
+</details>
+
+<details>
+<summary>Red Death Nest</summary>
+ <img src="assets/red_death_nest.png" alt="Red Death Nest">
+<br>
+Red Death Nests are the home of the Red Death Boss. These ferocious dragons will be awoken by nearby players, and are dangerous adversaries.
+<br> 
+</details>
+
+## Blocks
+
+<details>
+<summary>Dragon Eye</summary>
+ <img src="assets/dragon_eye.png" alt="Dragon Eye">
+<br>
+The Dragon Eye is a special block that can only be found on Dragon Hunter Ships
+<br> 
+<br>
+This block can have Dragon Eye Lenses inserted into it to provide additional information about certain dragons. Interacting with the block holding a Lens will insert the Lens from your hand. Interacting with any item or an empty hand will drop the current Lens, as will breaking the Dragon Eye.
 <br> 
 </details>
 

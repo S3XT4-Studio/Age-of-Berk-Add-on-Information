@@ -4,6 +4,8 @@ permalink: /versions
 ---
 
 <details>
+<summary><b>1.X</b></summary>
+<details>
 <summary>1.5.X</summary>
 <b>INITIAL RELEASE</b>
 <br>
@@ -234,5 +236,69 @@ v1.12.0 - 5 December 2024
   <li>Reworked dragon cages... again. They are now less buggy.</li>
   <li>Players no longer have collision with other players.</li>
   <li>Nightmare wings no longer rotate strangely.</li>
+</ul> 
+</details>
+</details>
+
+<details>
+<summary><b>2.X</b></summary>
+<b>MAJOR VERSION</b>
+<br>
+v2.0 - 17 June 2025
+<ul>
+<li><b>Additions</b></li>
+  <li>Added Typhoomerangs, Hobgobblers, Screaming Deaths, and Death Songs</li>
+<ul style="padding-left:20px">
+    <li>Added Amber Blasts as the Death Song fire type. Amber Blasts will freeze players and some entities in place for about 40 seconds. Interacting with the Amber Chunk using Monstrous Nightmare Gel will coat it in gel. Lighting the gel with Flint and Steel, a Fire Charge, or the Dragon Blade will destroy the amber and free the entity or player.</li>
+    <li>Added Amber Blasts as the Death Song fire type. Amber Blasts will freeze players and some entities in place for about 40 seconds. Interacting with the Amber Chunk using Monstrous Nightmare Gel will coat it in gel. Lighting the gel with Flint and Steel, a Fire Charge, or the Dragon Blade will destroy the amber and free the entity or player.</li>
+    <li>Book of Dragons entries are available for all four</li>
+	</ul>
+  <li>Added Boneknapper and Sentinel Bosses, and their Trained Variants</li>
+<ul style="padding-left:20px">
+    <li>Book of Dragons entries are available for both</li>
+	</ul>
+  <li>Added the Red Death Boss</li>
+<ul style="padding-left:20px">
+    <li>A Book of Dragons is available for it</li>
+	</ul>
+  <li>Added the Boss Fight Structures for Sentinels, Boneknappers, and Red Deaths</li>
+  <li>Added the Death Song Nests</li>
+  <li>Added the Dragon Eye and Dragon Eye Lenses</li>
+<ul style="padding-left:20px">
+    <li>The Dragon Eye can be found on the Captain's Table of Dragon Hunter Ships</li>
+    <li>Some Dragon Eye Lenses can be found in boss structures. Others can be found in Dragon Hunter Ships</li>
+    <li>Interacting with the Dragon Eye while holding a Lens will drop the current Lens if there is one and insert the new one. Breaking the Dragon Eye or interacting with something other than a Lens will drop the Current Lens.</li>
+	</ul>
+  <li>Added Dragon Scales for the five main dragons. These will be dropped by trained dragons occassionally, and will gain a use in the future.</li>
+  <li>Added Night Fury Tail Fins, which can be equipped on Night Furies for further customization</li>
+<ul style="padding-left:20px">
+    <li>The "Toothless" name Easter Egg has also been removed. Use the Red Night Fury Tail Fin to achieve the same effect.</li>
+	</ul>
+  <li>Added Saddle Bags, which act like a bundle and can be equipped to your dragon.</li>
+  <li>Added Incubation Pedestals. Dragon eggs will no longer hatch unless they are placed on a pedestal that has been filled with lava.</li>
+  <li>Added Dragon Name Tags. These specialized name tags will open the dragon naming menu that is opened upon training a dragon.</li>
+<ul style="padding-left:20px">
+    <li><i>Dev Note: This is both a solution to the issue in which some dragons couldn't be renamed, and a way to make naming dragons more accessible. These name tags are craftable and do not need an anvil to be used.</i></li>
+	</ul>
+ 
+<li><b>Changes</b></li>
+ <li>Changed Hideous Zippleback and Deadly Nadder models to be more accurate</li>
+ <li>Added sounds for a few more dragons</li>
+ <li>Overhauled Dragon Hunter Ships</li>
+<ul style="padding-left:20px">
+    <li>They contain more hunters, more dragons to rescue, and more loot.</li>
+	</ul>
+ <li>Overhauled Night Fury spawning</li>
+<ul style="padding-left:20px">
+    <li>Night Furies will now have approximately a 12% chance to spawn near a random player during an unskipped night (1.2% per minute of night) if there is not an untamed night fury near that player.</li>
+    <li><i>Dev Note: The old method of spawning night furies made them a little too rare, because only one could exist in a world at once. This new method makes it take the same amount of time to spawn one, but doesn't limit the number of night furies spawned. They will spawn regardless of the number of night furies in the world, as long as there aren't any near the player.</i></li>
+	</ul>
+  
+<li><b>Fixes</b></li>
+ <li>Fixed Ice Gronckle not being spawnable using a spawn egg except during December</li>
+ <li>Fixed Dragon Hunter Arrows not making your dragon flightless</li>
+<ul style="padding-left:20px">
+    <li><i>Dev Note: The intention has always been that being hit by a dragon hunter's arrow would prevent your dragon from flying for several seconds. This hasn't worked for a long time, but is now working again.</i></li>
+	</ul>
 </ul> 
 </details>
