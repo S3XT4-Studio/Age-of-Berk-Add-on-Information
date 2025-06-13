@@ -25,8 +25,6 @@ v1.5.0 - 27 February 2024
 </ul>
  <li>Adds Book of Dragons with an entry for each dragon
  </li>
- <li>Changes chicken model to be more HTTYD-esque
- </li>
   </li>
 </ul>
 <b>HOTFIX</b>
@@ -282,19 +280,21 @@ v2.0 - 17 June 2025
 	</ul>
  
 <li><b>Changes</b></li>
- <li>Changed Hideous Zippleback and Deadly Nadder models to be more accurate</li>
+ <li>Changed Hideous Zippleback, Gronckle, and Deadly Nadder models to be more accurate</li>
+ <li>Changed the Minecraft Sheep's model to be look like the sheep in How to Train Your Dragon</li>
  <li>Added sounds for a few more dragons</li>
- <li>Overhauled Dragon Hunter Ships</li>
+ <li>Overhauled Dragon Hunter Ships.</li>
 <ul style="padding-left:20px">
-    <li>They contain more hunters, more dragons to rescue, and more loot.</li>
+    <li>There are now 3 variations with different loot, and They contain more hunters, more dragons to rescue, and more loot.</li>
 	</ul>
  <li>Overhauled Night Fury spawning</li>
 <ul style="padding-left:20px">
     <li>Night Furies will now have approximately a 12% chance to spawn near a random player during an unskipped night (1.2% per minute of night) if there is not an untamed night fury near that player.</li>
-    <li><i>Dev Note: The old method of spawning night furies made them a little too rare, because only one could exist in a world at once. This new method makes it take the same amount of time to spawn one, but doesn't limit the number of night furies spawned. They will spawn regardless of the number of night furies in the world, as long as there aren't any near the player.</i></li>
+    <li><i>Dev Note: The old method of spawning night furies made them a little too rare, because only one could exist in a world at once. This new method will try to spawn one just as often as the old method. However, the spawn attempt only succeeded if a player had already found the last one spawned. The new method will succeed in almost every situation.</i></li>
 	</ul>
   
 <li><b>Fixes</b></li>
+ <li>Fixed the Dragon Horn item not working properly. It now takes a few seconds to use and will play a sound when finished.</li>
  <li>Fixed Ice Gronckle not being spawnable using a spawn egg except during December</li>
  <li>Fixed Dragon Hunter Arrows not making your dragon flightless</li>
 <ul style="padding-left:20px">

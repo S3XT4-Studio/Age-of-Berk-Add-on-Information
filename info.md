@@ -617,6 +617,76 @@ This block can have Dragon Eye Lenses inserted into it to provide additional inf
 <br> 
 </details>
 
+## Items
+
+<details>
+<summary>Dragon Saddle</summary>
+ <img src="assets/dragon_saddle.png" alt="Dragon Saddle">
+<br>
+The Dragon Saddle is a new item that is required to ride dragons.
+<br> 
+<br>
+It can be found in many add-on structure, and is also craftable.
+<br> 
+ <img src="assets/dragon_saddle_craft.png" alt="Crafting Recipe">
+<br> 
+</details>
+
+<details>
+<summary>Saddle Bags</summary>
+ <img src="assets/saddle_bag.png" alt="Saddle Bags">
+<br>
+Saddle Bags are a new item that allow you to store items on your dragon.
+<br> 
+<br>
+Saddle Bags act like <a href="https://minecraft.wiki/w/Bundle">Bundles</a> from vanilla Minecraft. They can hold one mixed stack of items. 
+<br> 
+Examples of what would fill saddle bags:
+<br> 
+- 8 Snowballs (stack to 16) and 32 Iron Ingots (stack to 64)
+<br> 
+- 1 Diamond Sword (unstackable)
+<br> 
+- 16 Dirt Blocks (stack to 64), 32 Cobblestone Blocks (stack to 64), and 4 Ender Pearls (stack to 16)
+<br> 
+<br> 
+They are craftable using this recipe:
+<br> 
+ <img src="assets/saddle_bags_craft.png" alt="Crafting Recipe">
+<br> 
+</details>
+
+<details>
+<summary>Monstrous Nightmare Gel</summary>
+ <img src="assets/nightmare_gel.png" alt="Monstrous Nightmare Gel">
+<br>
+Monstrous Nightmare Gel is a new item obtained by using a glass bottle on a Monstrous Nightmare
+<br> 
+<br>
+Monstrous Nightmare Gel is required to craft a Dragon Blade. You can coat Amber Chunks with Monstrous Nightmare Gel and then set them on fire to free a mob or player.
+<br> 
+</details>
+
+<details>
+<summary>Dragon Blade</summary>
+ <img src="assets/dragon_blade.png" alt="Dragon Blade">
+<br>
+ <img src="assets/lit_dragon_blade.png" alt="Lit Dragon Blade">
+<br>
+The Dragon Blade is a new craftable weapon.
+<br> 
+<br>
+If used, the Dragon Blade will light, and will deal 4 hearts of damage in a normal attack. It will also set the entity on fire for a couple of seconds.
+<br> 
+It only has 50 durability points, but instead of breaking, will unlight. You can use the item to light it again. It can also be unlit by using it.
+<br> 
+<br> 
+They are craftable using this recipe:
+<br> 
+ <img src="assets/dragon_blade_craft.png" alt="Crafting Recipe">
+<br> 
+</details>
+
 
 
 ## Video Showcase
