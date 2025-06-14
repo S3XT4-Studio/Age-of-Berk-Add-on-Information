@@ -267,7 +267,18 @@ v2.0 - 17 June 2025
     <li>Some Dragon Eye Lenses can be found in boss structures. Others can be found in Dragon Hunter Ships</li>
     <li>Interacting with the Dragon Eye while holding a Lens will drop the current Lens if there is one and insert the new one. Breaking the Dragon Eye or interacting with something other than a Lens will drop the Current Lens.</li>
 	</ul>
-  <li>Added Dragon Scales for the five main dragons. These will be dropped by trained dragons occassionally, and will gain a use in the future.</li>
+  <li>Added Gronckle Iron.</li>
+<ul style="padding-left:20px">
+    <li>Raw Gronckle Iron can be crafted with 1 Raw Iron, 2 Sandstone, and 3 Calcite. Interacting with a trained Gronckle using Raw Gronckle Iron will transform the item into a Gronckle Iron Ingot</li>
+    <li>Gronckle Iron Ingots can be used to craft Gronckle Iron Armor, which has a protection value between Iron and Diamond Armor.</li>
+    <li>Raw Gronckle Iron and Gronckle Iron Ingots can be crafted into blocks.</li>
+	</ul>
+  <li>Added Dragon Scales for the five main dragons. These will be dropped by trained dragons occassionally.</li>
+<ul style="padding-left:20px">
+    <li>Surrounding a Gronckle Iron Armor Piece with Deadly Nadder or Night Fury scales will create the respective Dragon Armor.</li>
+    <li>Dragon Armor will let you walk through fire, but is not lava resistant.</li>
+    <li>Monstrous Nightmare, Gronckle, and Hideous Zippleback Armor will be added in a future update.</li>
+	</ul>
   <li>Added Night Fury Tail Fins, which can be equipped on Night Furies for further customization</li>
 <ul style="padding-left:20px">
     <li>The "Toothless" name Easter Egg has also been removed. Use the Red Night Fury Tail Fin to achieve the same effect.</li>
