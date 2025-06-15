@@ -296,7 +296,7 @@ v2.0 - 17 June 2025
  <li>Added sounds for a few more dragons</li>
  <li>Overhauled Dragon Hunter Ships.</li>
 <ul style="padding-left:20px">
-    <li>There are now 3 variations with different loot, and They contain more hunters, more dragons to rescue, and more loot.</li>
+    <li>There are now 3 variations with different loot, and they contain more hunters, more dragons to rescue, and more loot.</li>
 	</ul>
  <li>Overhauled Night Fury spawning</li>
 <ul style="padding-left:20px">

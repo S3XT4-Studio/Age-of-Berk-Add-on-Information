@@ -10,3 +10,4 @@ We have had an issue with people using the form for things other than bug report
 **The following bugs are known. Please do not make reports about them, as it will clog up our system and make it more difficult to find unknown bugs.**
 - Dragons that were tamed as a baby cannot breed. We are well aware of this issue and have been trying to fix this for months
 - Most dragons do not float. Until we fix this issue, dragons will not drown. This will be changed as soon as we fix the issue.
+- Some dragons are much smaller than they are in the franchise. This is due to a Bedrock Edition bug that doesn't allow rideable mobs to be larger than a certain size in most situations. Please upvote [MCPE-221666](https://bugs.mojang.com/browse/MCPE/issues/MCPE-221666) to get this bug fixed.

@@ -687,6 +687,36 @@ They are craftable using this recipe:
 <br> 
 </details>
 
+<details>
+<summary>Gronckle Iron</summary>
+Gronckle Iron is a new mineral
+<br> 
+<br>
+Raw Gronckle Iron can be crafted using this recipe:
+<br> 
+ <img src="assets/raw_gronckle_iron_craft.png" alt="Raw Gronckle Iron">
+<br> 
+Feeding a Gronckle Raw Gronckle Iron will smelt it into a Gronckle Iron Ingot
+<br> 
+Gronckle Iron Ingots can be used to craft Gronckle Iron Armor, which provides protection values between Iron and Diamond Armor:
+<br>
+ <img src="assets/gronckle_iron_armor_craft.png" alt="Gronckle Iron Armor">
+<br>
+</details>
+
+<details>
+<summary>Dragon Scales</summary>
+Dragon Scales are dropped by some dragons.
+<br> 
+<br>
+Night Fury and Deadly Nadder scales can be used to craft new armor:
+<br> 
+ <img src="assets/dragon_armor_craft.png" alt="Dragon Armor">
+<br> 
+Dragon Scale Armor provides 5 seconds of Fire Resistance per armor piece. The timer will only diminish if pieces are removed or the player stands in lava. Fire does not diminish the timer, so you can stand in it indefinitely.
+<br>
+</details>
+
 
 
 ## Video Showcase
