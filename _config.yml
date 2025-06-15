@@ -9,9 +9,9 @@ minima:
   social_links:
   nav_pages:
     - index.md
-    - downloads.md
-    - info.md
-    - faq.md
-    - about_us.md
+    - docs/downloads.md
+    - docs/info.md
+    - docs/faq.md
+    - docs/about_us.md
   
 google_analytics: G-KPDDEY2P5Z

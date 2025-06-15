@@ -1,5 +1,5 @@
 --- 
-title: Canon
+title: How to Train Your Dragon Canon
 permalink: /canon
 --- 
 According to the Oxford English Dictionary, **Canon**, when used to describe a work of fiction, is "the body of works taking place in a particular fictional world that are widely considered to be official or authoritative; those created by the original author or developer of the world."
@@ -90,4 +90,4 @@ According to the Oxford English Dictionary, **Canon**, when used to describe a w
 **Age of Berk currently contains:**<br>
 - 22 Canon dragons<br>
 - 2 Non-Canon dragons<br>
-The goal is to eventually add all 65 Canon dragons, although some may be omitted for technical reasons. A specific Non-Canon dragon is unlikely to be added.
+The goal is to eventually add all 65 Canon dragons, although some may be omitted for technical reasons. Non-Canon dragons are not a priotity, so a specific Non-Canon dragon is unlikely to be added.

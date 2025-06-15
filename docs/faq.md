@@ -11,7 +11,7 @@ permalink: /faq
 The most important details about the dragons are included in the in-game Book of Dragons or Dragon Eye Lenses.
 <br>
 <br>
-Extra information about dragons, and information about the rest of the features, can be found <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/info">here</a>.
+Extra information about dragons, and information about the rest of the features, can be found <a href="info">here</a>.
 
 <br>
 </details>
@@ -19,10 +19,18 @@ Extra information about dragons, and information about the rest of the features,
 <details>
 <summary>Why isn't XYZ Feature not Working Properly?</summary>
 <br>
-Make sure the add-on is installed properly (look at the <b>Technical Details</b> section). Also make sure you have turned on the necessary experiments (You can see which ones are currently needed on the <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/downloads">download page</a>).
+Make sure the add-on is installed properly (look at the <b>Technical Details</b> section). Also make sure you have turned on the necessary experiments (You can see which ones are currently needed on the <a href="downloads">download page</a>).
 <br>
 <br>
-Check that what is happening isn't a <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/bugs">known bug</a>. If it isn't there, and you are certain the problem isn't on your end, make a detailed bug report. The more details, the more likely we will be able to fix it. If you don't give us all the details listed, we may not be able to figure out what is wrong.
+Check that what is happening isn't a <a href="bugs">known bug</a>. If it isn't there, and you are certain the problem isn't on your end, make a detailed bug report. The more details, the more likely we will be able to fix it. If you don't give us all the details listed, we may not be able to figure out what is wrong.
+
+<br>
+</details>
+
+<details>
+<summary>Will you add XYZ dragon??</summary>
+<br>
+Check out our page on <a href="canon">How to Train Your Dragon Canon</a>, where the concept of canon is discussed, as well as how it applies to Age of Berk
 
 <br>
 </details>
@@ -56,7 +64,7 @@ This is an issue with the platform, not our add-on. See <a href="https://bugs.mo
 <details>
 <summary>How do I install Age of Berk?</summary>
 <br> 
-We have a handy guide at the bottom of the <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/downloads">download page</a>.
+We have a handy guide at the bottom of the <a href="downloads">download page</a>.
  
 <br>
 </details>
@@ -105,7 +113,7 @@ Unlike normal semantic versioning, we are using versions starting at 1.5 and unt
 Worlds that have previously used one version can not use a lower version without possible danger to your world. Downgrading this add-on is not supported.
 <br> 
 <br> 
-Bug reports are only accepted for the latest version. Please double check that the bug occurs in the latest version before submitting a <a href="https://s3xt4-studio.github.io/Age-of-Berk-Add-on-Information/bugs">bug report</a>.
+Bug reports are only accepted for the latest version. Please double check that the bug occurs in the latest version before submitting a <a href="bugs">bug report</a>.
  
 <br>
 </details>
