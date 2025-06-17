@@ -466,13 +466,15 @@ Hobgobblers are mischevious, and will snatch up any food that is left on the gro
 <summary>Death Song</summary>
  <img src="assets/death_song.png" alt="Death Song">
 <br>
-This Mystery Class dragon is protective, and can be tamed using the following foods:
+This Mystery Class dragon is aggressive, and can be tamed as a baby using the following foods:
 <br>
  - Raw Cod
 <br>
  - Raw Salmon
 <br>
  - Cooked Chicken
+<br>
+They aren't known for being friendly, and even babies will try to attack you. Good luck!
 <br>
 <br>
 Death Songs shoot Amber Blasts that trap victims. The Amber Chunks will break after about 45 seconds, but can be removed early using Monstrous Nightmare Gel and a lit Dragon Blade.
