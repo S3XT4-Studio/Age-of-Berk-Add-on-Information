@@ -299,8 +299,8 @@ v2.0 - 17 June 2025
   <li>Added Incubation Pedestals. Dragon eggs will no longer hatch unless they are placed on a pedestal that has been filled with lava. Incubation can take anywhere from 2 to 8 minutes, depending on the dragon.</li>
   <li>Added Dragon Name Tags. These specialized name tags will open the dragon naming menu that is opened upon training a dragon.</li>
 <ul style="padding-left:20px">
-    <li><i>Dev Note: This is both a solution to the issue in which some dragons couldn't be renamed, and a way to make naming dragons more accessible. These name tags are craftable and do not need an anvil to be used.</i></li>
-	</ul></ul>
+    <li><i>Dev Note: This is both a solution to the issue in which some dragons couldn't be renamed, and a way to make naming dragons more accessible. These name tags are craftable and do not need an anvil to be used.</i>
+	</ul></ul></li>
  
 <li><b>Changes</b></li>
 <ul style="padding-left:20px">
@@ -316,11 +316,12 @@ v2.0 - 17 June 2025
     <li>Night Furies will now have approximately a 12% chance to spawn near a random player during an unskipped night (1.2% per minute of night) if there is not an untamed night fury near that player.</li>
     <li><i>Dev Note: The old method of spawning night furies made them a little too rare, because only one could exist in a world at once. This new method will try to spawn one just as often as the old method. However, the spawn attempt only succeeded if a player had already found the last one spawned. The new method will succeed in almost every situation.</i>
 	</ul>
+	</ul>
  <li>Overhauled the Flight System</li>
 <ul style="padding-left:20px">
     <li>Holding Jump will put your dragon in flight mode. Not holding Jump will put your dragon in walk mode. When flying, look where you want to go and you will travel in that direction.</li>
     <li><i>Dev Note: This new flight system allows you to change your camera perspective yourself, instead of locking it to what the default is in the Settings Item's Menu. Because of this, access to the Settings Menu has been removed. Existing Settings items will remain, but they will not be usable, and new ones cannot be acquired by crafting or joining a world.</i>
-	</ul></ul>
+	</ul>
   
 <li><b>Fixes</b></li>
 <ul style="padding-left:20px">
