@@ -315,4 +315,10 @@ v2.0 - 17 June 2025
     <li><i>Dev Note: The intention has always been that being hit by a dragon hunter's arrow would prevent your dragon from flying for several seconds. This hasn't worked for a long time, but is now working again.</i></li>
 	</ul>
 </ul> 
+
+<li><b>Known Issues</b></li>
+ <li>Dragons that were tamed as a baby cannot breed. We are well aware of this issue and have been trying to fix this for months</li>
+ <li>Most dragons do not float. Until we fix this issue, dragons will not drown. This will be changed as soon as we fix the issue. This also means that dragons cannot fly underwater, and you will have to build a staircase to get them out.</li>
+ <li>Some dragons are much smaller than they are in the franchise. This is due to a Bedrock Edition bug that doesn't allow rideable mobs to be larger than a certain size in most situations. Please upvote <a href="https://bugs.mojang.com/browse/MCPE-211666">MCPE-211666</a> to get this bug fixed.</li>
+</ul> 
 </details>
