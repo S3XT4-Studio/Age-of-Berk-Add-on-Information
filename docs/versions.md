@@ -1,5 +1,5 @@
 ---
-title: Version History
+title: Changelogs
 permalink: /versions
 ---
 
@@ -247,6 +247,10 @@ v2.0 - 17 June 2025
 <li><b>Additions</b></li>
   <li>Added Typhoomerangs, Hobgobblers, Screaming Deaths, and Death Songs</li>
 <ul style="padding-left:20px">
+    <li>Typhoomerangs and Hobgobblers spawn naturally</li>
+    <li>Untamed Hobgobblers will duplicate when they are not being watched. This is capped at twelve Hobgobblers to prevent lag.</li>
+    <li>Hobgobblers can be tamed with any food item. They can ride on your shoulder, and will defend you fiercely</li>
+    <li>Only baby Screaming Deaths can be tamed, and they do not spawn naturally. They must be hatched from a Screaming Death Egg, which can be found on Dragon Hunter Ships. There is also a small chance that two Whispering Deaths will lay a Screaming Death egg instead of their own.</li>
     <li>Added Amber Blasts as the Death Song fire type. Amber Blasts will freeze players and some entities in place for about 40 seconds. Interacting with the Amber Chunk using Monstrous Nightmare Gel will coat it in gel. Lighting the gel with Flint and Steel, a Fire Charge, or the Dragon Blade will destroy the amber and free the entity or player.</li>
     <li>Added Amber Blasts as the Death Song fire type. Amber Blasts will freeze players and some entities in place for about 40 seconds. Interacting with the Amber Chunk using Monstrous Nightmare Gel will coat it in gel. Lighting the gel with Flint and Steel, a Fire Charge, or the Dragon Blade will destroy the amber and free the entity or player.</li>
     <li>Book of Dragons entries are available for all four</li>
@@ -283,7 +287,7 @@ v2.0 - 17 June 2025
     <li>The "Toothless" name Easter Egg has also been removed. Use the Red Night Fury Tail Fin to achieve the same effect.</li>
 	</ul>
   <li>Added Saddle Bags, which act like a bundle and can be equipped to your dragon.</li>
-  <li>Added Incubation Pedestals. Dragon eggs will no longer hatch unless they are placed on a pedestal that has been filled with lava.</li>
+  <li>Added Incubation Pedestals. Dragon eggs will no longer hatch unless they are placed on a pedestal that has been filled with lava. Incubation can take anywhere from 2 to 8 minutes, depending on the dragon.</li>
   <li>Added Dragon Name Tags. These specialized name tags will open the dragon naming menu that is opened upon training a dragon.</li>
 <ul style="padding-left:20px">
     <li><i>Dev Note: This is both a solution to the issue in which some dragons couldn't be renamed, and a way to make naming dragons more accessible. These name tags are craftable and do not need an anvil to be used.</i></li>

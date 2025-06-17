@@ -11,6 +11,7 @@ minima:
     - index.md
     - docs/downloads.md
     - docs/info.md
+    - docs/versions.md
     - docs/faq.md
     - docs/about_us.md
   
