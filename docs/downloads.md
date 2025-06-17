@@ -6,10 +6,9 @@ permalink: /downloads
  
 
 ### Downloads
-<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.12/Age-of-Berk-Test-v1-12-0.mcaddon">Test v1.12.0 Add-on</a>
+<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v2.0/Age-of-Berk-v2-0.mcaddon">Age of Berk v2.0</a>
 <br>
-<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.12/Age-of-Berk-Portuguese-Translation-v1-12-0.mcaddon">Teste de tradução v1.12.0<a/><br>
-<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v1.8.0/Age.of.Berk.Achievements.v1.8.0.mcaddon">English Achievements v1.8.0(Portuguese not yet available)</a>
+<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v2-0/Age-of-Berk-Portuguese-Translation-v2-0.mcaddon">Tradução de Era de Berk v2.0<a/><br>
 <br>
 <br>
 ### Version History
