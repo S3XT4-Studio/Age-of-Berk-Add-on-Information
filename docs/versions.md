@@ -211,22 +211,29 @@ v1.11.2 - 24 November 2024
 v1.12.0 - 5 December 2024
 <ul>
 <li><b>Additions</b></li>
+<ul style="padding-left:20px">
   <li>Added Hobblegrunts, Rumblehorns, Night Lights, Light Furies, and Buffalords</li>
+<ul style="padding-left:20px">
     <li>Hobblegrunts, Rumblehorns, and Buffalords spawn naturally </li>
     <li>Light Furies can be found in Dragon Cages.</li>
     <li>Night Lights can be obtained by breeding a Light Fury and Night Fury, and they never grow up </li>
     <li>Buffalords are untrainable and have no egg. They just want to eat grass </li>
     <li>Book of Dragons entries are available for all five</li>
+</ul> 
   <li>Added a new special variant dragon: the Pale Nightmare. They spawn in Pale Gardens</li>
   <li>Added a new seasonal variant dragon, the Icy Gronckle. They spawn in Icy biomes during December</li>
  <li>Added diving ability, which can be activated by looking down past 65°</li>
+</ul> 
  
 <li><b>Changes</b></li>
+<ul style="padding-left:20px">
   <li>Overhauled Hunter Watchtowers, which will now spawn less frequently, have better loot, and blend with terrain better.</li>
   <li>Removed Control Scheme Option in Settings. The code now detects this itself. You can still change Camera Perspective there.</li>
   <li>Dragon Hunters now attack players on sight, instead of only once attacked.</li>
+</ul> 
   
 <li><b>Fixes</b></li>
+<ul style="padding-left:20px">
   <li>Dragons should no longer despawn when tamed.</li>
   <li>Dragon Cages no longer fall out of Hunter Ships.</li>
   <li>Parts of Hunter Ships are no longer waterlogged.</li>
@@ -234,6 +241,7 @@ v1.12.0 - 5 December 2024
   <li>Reworked dragon cages... again. They are now less buggy.</li>
   <li>Players no longer have collision with other players.</li>
   <li>Nightmare wings no longer rotate strangely.</li>
+</ul> 
 </ul> 
 </details>
 </details>
@@ -245,6 +253,7 @@ v1.12.0 - 5 December 2024
 v2.0 - 17 June 2025
 <ul>
 <li><b>Additions</b></li>
+<ul style="padding-left:20px">
   <li>Added Typhoomerangs, Hobgobblers, Screaming Deaths, and Death Songs</li>
 <ul style="padding-left:20px">
     <li>Typhoomerangs and Hobgobblers spawn naturally</li>
@@ -291,9 +300,10 @@ v2.0 - 17 June 2025
   <li>Added Dragon Name Tags. These specialized name tags will open the dragon naming menu that is opened upon training a dragon.</li>
 <ul style="padding-left:20px">
     <li><i>Dev Note: This is both a solution to the issue in which some dragons couldn't be renamed, and a way to make naming dragons more accessible. These name tags are craftable and do not need an anvil to be used.</i></li>
-	</ul>
+	</ul></ul>
  
 <li><b>Changes</b></li>
+<ul style="padding-left:20px">
  <li>Changed Hideous Zippleback, Gronckle, and Deadly Nadder models to be more accurate</li>
  <li>Changed the Minecraft Sheep's model to be look like the sheep in How to Train Your Dragon</li>
  <li>Added sounds for a few more dragons</li>
@@ -304,21 +314,28 @@ v2.0 - 17 June 2025
  <li>Overhauled Night Fury spawning</li>
 <ul style="padding-left:20px">
     <li>Night Furies will now have approximately a 12% chance to spawn near a random player during an unskipped night (1.2% per minute of night) if there is not an untamed night fury near that player.</li>
-    <li><i>Dev Note: The old method of spawning night furies made them a little too rare, because only one could exist in a world at once. This new method will try to spawn one just as often as the old method. However, the spawn attempt only succeeded if a player had already found the last one spawned. The new method will succeed in almost every situation.</i></li>
+    <li><i>Dev Note: The old method of spawning night furies made them a little too rare, because only one could exist in a world at once. This new method will try to spawn one just as often as the old method. However, the spawn attempt only succeeded if a player had already found the last one spawned. The new method will succeed in almost every situation.</i>
 	</ul>
+ <li>Overhauled the Flight System</li>
+<ul style="padding-left:20px">
+    <li>Holding Jump will put your dragon in flight mode. Not holding Jump will put your dragon in walk mode. When flying, look where you want to go and you will travel in that direction.</li>
+    <li><i>Dev Note: This new flight system allows you to change your camera perspective yourself, instead of locking it to what the default is in the Settings Item's Menu. Because of this, access to the Settings Menu has been removed. Existing Settings items will remain, but they will not be usable, and new ones cannot be acquired by crafting or joining a world.</i>
+	</ul></ul>
   
 <li><b>Fixes</b></li>
+<ul style="padding-left:20px">
  <li>Fixed the Dragon Horn item not working properly. It now takes a few seconds to use and will play a sound when finished.</li>
  <li>Fixed Ice Gronckle not being spawnable using a spawn egg except during December</li>
  <li>Fixed Dragon Hunter Arrows not making your dragon flightless</li>
 <ul style="padding-left:20px">
     <li><i>Dev Note: The intention has always been that being hit by a dragon hunter's arrow would prevent your dragon from flying for several seconds. This hasn't worked for a long time, but is now working again.</i></li>
-	</ul>
+	</ul></ul>
 </ul> 
 
 <li><b>Known Issues</b></li>
+<ul style="padding-left:20px">
  <li>Dragons that were tamed as a baby cannot breed. We are well aware of this issue and have been trying to fix this for months</li>
  <li>Most dragons do not float. Until we fix this issue, dragons will not drown. This will be changed as soon as we fix the issue. This also means that dragons cannot fly underwater, and you will have to build a staircase to get them out.</li>
  <li>Some dragons are much smaller than they are in the franchise. This is due to a Bedrock Edition bug that doesn't allow rideable mobs to be larger than a certain size in most situations. Please upvote <a href="https://bugs.mojang.com/browse/MCPE-211666">MCPE-211666</a> to get this bug fixed.</li>
-</ul> 
+</ul> </ul>
 </details>
