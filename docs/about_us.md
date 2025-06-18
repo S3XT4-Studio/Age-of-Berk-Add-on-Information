@@ -33,7 +33,7 @@ I model, texture, and animate for the team. I’ve loved How to Train Your Drago
 <br>
 
 
-**_nick**
+**_nick**   [<img src="assets/youtube.svg">](https://www.youtube.com/channel/UCGA5rXj58DGX8oSspeoaBjw)
 <br>
 Language - Spanish
 <br>
@@ -41,7 +41,37 @@ I am an animator, modeler and texturizer of the addon. I do models for fun and I
 <br>
 
 
+**HERICKOROCKSTAR**   [<img src="assets/youtube.svg">](https://www.youtube.com/channel/UCvrMMWgMVFBArAYL4PZ0egg)
+<br>
+*Biography in Progress*
+<br>
+
+
+**PARACUNA**
+<br>
+*Biography in Progress*
+<br>
+
+
 **RAXIORE**
+<br>
+*Biography in Progress*
+<br>
+
+
+**TUNAFF**
+<br>
+*Biography in Progress*
+<br>
+
+
+**BANGUEDU**
+<br>
+*Biography in Progress*
+<br>
+
+
+**ROB**
 <br>
 *Biography in Progress*
 <br>
