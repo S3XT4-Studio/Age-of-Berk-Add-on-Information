@@ -236,11 +236,15 @@ v1.12.0 - 5 December 2024
 </ul>
 </details>
 </details>
+
+
 <details>
 <summary><b>2.X</b></summary>
+<details>
+<summary>v2.0.X</summary>
 <b>MAJOR VERSION</b>
 <br>
-v2.0 - 17 June 2025
+ v2.0.0 - 17 June 2025
 <ul>
 <li><b>Additions</b></li>
 <ul>
@@ -325,5 +329,39 @@ v2.0 - 17 June 2025
  <li>Dragons that were tamed as a baby cannot breed. We are well aware of this issue and have been trying to fix this for months</li>
  <li>Most dragons do not float. Until we fix this issue, dragons will not drown. This will be changed as soon as we fix the issue. This also means that dragons cannot fly underwater, and you will have to build a staircase to get them out.</li>
  <li>Some dragons are much smaller than they are in the franchise. This is due to a Bedrock Edition bug that doesn't allow rideable mobs to be larger than a certain size in most situations. Please upvote <a href="https://bugs.mojang.com/browse/MCPE-211666">MCPE-211666</a> to get this bug fixed.</li>
-</ul></ul>
+</ul></ul></ul>
+
+<b>HOTFIX</b>
+<br>
+v2.0.1 - 21 June 2025
+<ul>
+<li><b>Changes</b></li>
+<ul>
+ <li>Made trained dragons leashable</li>
+ <li>Adjusted some elements of the new Flight System</li>
+<ul>
+ <li>Dragon's flight speeds have been changed to be more accurate to each other</li>
+ <li>To start flying, press jump once, look up, and move forward</li>
+ <li>To hover, stop pressing movement buttons while flying</li>
+ <li>To stop flying, press jump once or fly into the ground for a few seconds</li>
+ <li>Dragons will now lean in the direction they are turning when ridden by a player</li>
+ <li><i>Dev Note: I wish to reiterate that we will not be removing this new Flight System, because the positives far outweigh the negatives overall, even if you cannot see it.</i>
+</ul>
+</ul>
+<li><b>Fixes</b></li>
+<ul>
+ <li>Fixed Boneknappers and Death Songs not spawning in their respective structures</li>
+ <li>Fixed the model of Baby Screaming Deaths to not appear broken</li>
+ <li>Fixed Death Songs not eating cod or salmon for some interactions</li>
+ <li>Fixed Deadly Nadder's underwing texture not appearing</li>
+ <li>Fixed many animation-related bugs, including Deadly Nadders, Sand Wraiths, Baby Sentinels, and many others</li>
+</ul>
+<li><b>Known Issues</b></li>
+<ul>
+ <li>Dragons that were tamed as a baby cannot breed. We are well aware of this issue and have been trying to fix this for months</li>
+ <li>Most dragons do not float. Until we fix this issue, dragons will not drown. We have spent hours trying to figure out what is causing, and we cannot simply decide when we figure it out. Please be patient.</li>
+ <li>Most dragons do not follow the player. Please use leads to move them around until then.</li>
+</ul>
+</ul>
+</details>
 </details>
