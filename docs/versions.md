@@ -332,6 +332,7 @@ v1.12.0 - 5 December 2024
 </ul>
 </ul>
 </ul>
+</ul>
 <b>HOTFIX</b>
 <br>
 v2.0.1 - 21 June 2025
