@@ -236,8 +236,6 @@ v1.12.0 - 5 December 2024
 </ul>
 </details>
 </details>
-
-
 <details>
 <summary><b>2.X</b></summary>
 <details>
@@ -294,7 +292,9 @@ v1.12.0 - 5 December 2024
  <li>Added Dragon Name Tags. These specialized name tags will open the dragon naming menu that is opened upon training a dragon.</li>
 <ul>
  <li><i>Dev Note: This is both a solution to the issue in which some dragons couldn't be renamed, and a way to make naming dragons more accessible. These name tags are craftable and do not need an anvil to be used.</i>
-</ul></ul></li>
+</ul>
+</ul>
+</li>
 <li><b>Changes</b></li>
 <ul>
  <li>Changed Hideous Zippleback, Gronckle, and Deadly Nadder models to be more accurate</li>
@@ -329,8 +329,9 @@ v1.12.0 - 5 December 2024
  <li>Dragons that were tamed as a baby cannot breed. We are well aware of this issue and have been trying to fix this for months</li>
  <li>Most dragons do not float. Until we fix this issue, dragons will not drown. This will be changed as soon as we fix the issue. This also means that dragons cannot fly underwater, and you will have to build a staircase to get them out.</li>
  <li>Some dragons are much smaller than they are in the franchise. This is due to a Bedrock Edition bug that doesn't allow rideable mobs to be larger than a certain size in most situations. Please upvote <a href="https://bugs.mojang.com/browse/MCPE-211666">MCPE-211666</a> to get this bug fixed.</li>
-</ul></ul></ul>
-
+</ul>
+</ul>
+</ul>
 <b>HOTFIX</b>
 <br>
 v2.0.1 - 21 June 2025
