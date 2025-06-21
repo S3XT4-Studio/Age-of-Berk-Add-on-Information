@@ -35,9 +35,9 @@ To control your dragon, you need a dragon saddle. These can be crafted using thi
 
 <br> 
 <br> 
-When on a dragon, you can hold down the jump button to travel up and let go to travel down.
+When on a dragon, you can hold down the jump button, look up, and move forward to take off. Press the jump button again to stop flying and walk instead.
 <br> 
-Use your normal movement controls to move other directions.
+When flying, move forward and look in the direction you want to fly. Release all movement buttons to hover in place.
 <br> 
 <br> 
 While riding a dragon, you can make it breathe fire. There is a 10 second cooldown between shots
@@ -50,7 +50,7 @@ While riding a dragon, you can make it breathe fire. There is a 10 second cooldo
 
 <details>
 <summary>Sitting</summary>
-Every tameable dragon can sit. When sitting, a dragon will not follow you.
+Every adult tameable dragon can sit. When sitting, a dragon will not follow you.
 <br> 
 <br> 
 To make a dragon sit, you must be crouching/sneaking. You then interact with them, as if you were going to ride them.
