@@ -16,6 +16,7 @@ According to the Oxford English Dictionary, **Canon**, when used to describe a w
 - How to Train Your Dragon 2<br>
 - The Serpent's Heir<br>
 - Dragonvine<br>
+- The Fire Tides (unreleased, but the story has been described in interviews, and is still considered canon)<br>
 - How to Train Your Dragon: The Hidden World<br>
 - How to Train Your Dragon: Homecoming<br>
 (The Nine Realms is considered canon, but contradicts much of the series, so it is omitted)
