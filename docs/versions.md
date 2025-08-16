@@ -365,5 +365,18 @@ v2.0.1 - 21 June 2025
  <li>Most dragons do not follow the player. Please use leads to move them around until then.</li>
 </ul>
 </ul>
+<b>HOTFIX</b>
+<br>
+v2.0.2 - 16 August 2025
+<ul>
+<li><b>Fixes</b></li>
+<ul>
+ <li>Fixed structures not generating in 1.21.100</li>
+</ul>
+<li><b>Known Issues</b></li>
+<ul>
+ <li>No other bug has been fixed. Any previously known bug is still in the game. We are hard at work on the next update, but this needed to be fixed immediately..</li>
+</ul>
+</ul>
 </details>
 </details>
