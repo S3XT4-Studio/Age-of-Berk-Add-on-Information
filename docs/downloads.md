@@ -6,7 +6,7 @@ permalink: /downloads
  
 
 ### Downloads
-<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v2.0.1/Age-of-Berk-v2-0-2.mcaddon">Age of Berk v2.0.2</a>
+<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v2.0.2/Age-of-Berk-v2-0-2.mcaddon">Age of Berk v2.0.2</a>
 <br>
 <a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v2.0/Age-of-Berk-Portuguese-Translation-v2-0.mcaddon">Tradução de Era de Berk v2.0<a/><br>
 <br>
