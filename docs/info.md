@@ -229,14 +229,14 @@ Light Furies do not spawn naturally, and can rarely be found in Dragon Cages.
 <summary>Night Lights</summary>
  <img src="assets/night_lights.png" alt="Night Lights">
 <br>
-This Strike Class dragon is passive, and can be tamed using the following foods:
+This Strike Class dragon is protective, but can be tamed using the following foods:
 <br>
  - Raw Cod
 <br>
  - Raw Salmon
 <br>
 <br>
-Night Lights remain cute and little forever, that is, they never grow up.
+Night Lights can shoot plasma blasts when ridden. The fire is hot enough to set most materials ablaze.
 <br>
 <br>
 They cannot spawn naturally, and can only be obtained by breeding a rare Light Fury and even rarer Night Fury together. 
@@ -429,11 +429,9 @@ Buffalords spawn wherever there is grass for them to eat
 <summary>Typhoomerang</summary>
  <img src="assets/typhoomerang.png" alt="Typhoomerang">
 <br>
-This Stoker Class dragon is protective, and can be tamed using the following foods:
+This Stoker Class dragon is aggressive, and can only be tamed as a baby. They can be be tamed using the following items:
 <br>
- - Raw Cod
-<br>
- - Raw Salmon
+ - Raw Eel
 <br>
 <br>
 Typhoomerangs can shoot streams of fire when ridden. The fire is hot enough to set most materials ablaze.
@@ -458,6 +456,36 @@ When left alone, untamed Hobgobblers will duplicate rapidly.
 <br>
 <br>
 Hobgobblers are mischevious, and will snatch up any food that is left on the ground, before devouring it.
+<br>
+ 
+</details>
+
+<details>
+<summary>Deathgripper</summary>
+ <img src="assets/deathgripper.png" alt="Deathgripper">
+<br>
+This Strike class dragon is aggressive, and can only be tamed as a baby. They can be be tamed using the following items:
+<br>
+ - Raw Dragon Meat
+<br>
+<br>
+Deathgrippers can shoot acid fireballs when ridden. The fire is hot enough to set most materials ablaze.
+<br>
+ 
+</details>
+
+<details>
+<summary>Speed Stinger</summary>
+ <img src="assets/speed_stinger.png" alt="Speed Stinger">
+<br>
+This Sharp Class dragon is aggressive, and can only be tamed as a baby. They can be be tamed using the following items:
+<br>
+ - Raw Cod
+ <br>
+ - Raw Salmon
+<br>
+<br>
+Speed Stingers have no fire type, but freeze their targets for around 10 seconds upon attacking
 <br>
  
 </details>
@@ -525,6 +553,28 @@ They behave as normal Montrous Nightmares.
 <br>
 </details>
 
+<details>
+<summary>Halloween Variants</summary>
+<br>
+During the month of October, the following dragons have a chance to become a Halloween variants when spawned. The chances of a specific dragon becoming a variant are listed.
+<br>
+Night Fury - 50%
+<br>
+Nadder - 16.6%
+<br>
+Gronckle - 16.6%
+<br>
+Deathgripper - 33.3%
+<br>
+Hobgobbler - 25%
+<br>
+Skrill - 25%.
+<br>
+<br>
+They behave as normal dragons.
+<br>
+</details>
+
 ## Other Mobs
 
 <details>
@@ -535,6 +585,17 @@ This new type of illager will only attack players when provoked, but attacks dra
 <br> 
 <br> 
 Their hate of dragons causes most of them to attack the Hunters on sight. Their arrows prevent a dragon from flying for up to a minute, preventing a hasty escape.
+<br> 
+</details>
+
+<details>
+<summary>Eel</summary>
+ <img src="assets/eel.png" alt="Eel">
+<br>
+This new type of fish spawns in rivers and oceans. They are a great food source for players, as long as you cook them.
+<br> 
+<br> 
+If most dragons see eels, they will immediately stop being aggressive and run away. If they are fed eels, they will be poisoned. This does not apply to Typhoomerangs, who love eels.
 <br> 
 </details>
 

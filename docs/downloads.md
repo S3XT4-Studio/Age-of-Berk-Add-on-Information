@@ -6,9 +6,9 @@ permalink: /downloads
  
 
 ### Downloads
-<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v2.0.2/Age-of-Berk-v2-0-2.mcaddon">Age of Berk v2.0.2</a>
+<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v2.1.0/Age-of-Berk-v2-1-0.mcaddon">Age of Berk v2.1.0</a>
 <br>
-<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v2.0/Age-of-Berk-Portuguese-Translation-v2-0.mcaddon">Tradução de Era de Berk v2.0<a/><br>
+<a href="https://github.com/S3XT4-Studio/Age-of-Berk-Add-on-Information/releases/download/v2.0/Age-of-Berk-Portuguese-Translation-v2-0.mcaddon">Tradução de Era de Berk v2.0 (A versão 2.1.0 estará disponível em breve.)<a/><br>
 <br>
 <br>
 ### Version History
@@ -16,10 +16,7 @@ Go to [Version History](/versions.md) to read changelogs and see release dates
 <br>
 
 ### Necessary Experiments
-Without these, the add-on will not work.
-<br>
-<br>
-![Experiments](assets/experiments.png)
+As of v2.1.0, Age of Berk does not require any experimental toggles.
 <br>
 
 ### Installation

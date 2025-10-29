@@ -375,8 +375,90 @@ v2.0.2 - 16 August 2025
 </ul>
 <li><b>Known Issues</b></li>
 <ul>
- <li>No other bug has been fixed. Any previously known bug is still in the game. We are hard at work on the next update, but this needed to be fixed immediately..</li>
+ <li>No other bug has been fixed. Any previously known bug is still in the game. We are hard at work on the next update, but this needed to be fixed immediately.</li>
 </ul>
 </ul>
 </details>
+<details>
+<summary>v2.1.X</summary>
+<b>MINOR VERSION</b>
+<br>
+ v2.1.0 - 31 October 2025
+<ul>
+<li><b>Additions</b></li>
+<ul>
+ <li>Added Deathgrippers, Speed Stingers, and adult Night Lights</li>
+<ul>
+ <li>Deathgrippers spawn naturally in swamps</li>
+ <li>Deathgrippers can only be tamed as a baby using Raw Dragon Meat</li>
+ <li>Deathgrippers shoot an acid fireball</li>
+ <li>Interacting with a Deathgripper holding a glass bottle will give you a poison potion</li>
+ <li>Speed Stingers spawn naturally in Speed Stinger Nests</li>
+ <li>Speed Stingers can be tamed as a baby using cod or salmon</li>
+ <li>Speed Stingers freeze the player for about 10 seconds upon attacking</li>
+ <li>Book of Dragons entries are available for both</li>
+</ul>
+ <li>Added the Speed Stinger Nests</li>
+<ul>
+ <li>The Speed Stingers made their nest in an old viking hunting outpost. There is still loot left, as well as a mounted Speed Stinger Skull</li>
+ <li>Speed Stinger Nests are the only source of speed stinger eggs for taming baby speed stingers</li>
+</ul>
+ <li>Added Dragon Meat</li>
+<ul>
+ <li>Raw Dragon Meat is dropped by all dragons upon death. If the dragon dies while on fire, they will drop Cooked Dragon Meat</li>
+ <li>Raw Dragon Meat is used to tame Deathgrippers.</li>
+</ul>
+ <li>Added Eels</li>
+<ul>
+ <li>Eels can spawn naturally in rivers and oceans.</li>
+ <li>Most dragons are terrified of them and will run away from them.</li>
+ <li>Eels can be picked up in a bucket like other fish.</li>
+ <li>Eels drop Raw Eel on death, which causes poison when eaten. It can be cooked to be eaten safely, and is as good a food source as steak</li>
+ <li>Eels can be picked up in a bucket like other fish.</li>
+ <li>Holding Cooked Eel, Raw Eel, or Bucket of Eel near most dragons will cause them to stop attacking you and run away. Feeding a Cooked Eel or Raw Eel to a dragon will poison the dragon.</li>
+ <li>Typhoomerangs and bosses are not affected by this.</li>
+</ul>
+ <li>Added Halloween variants of many dragons</li>
+<ul>
+ <li>During the month of October, some dragons will spawn in a special Halloween variant. If you want them during another time of the year, set your device's clock to October. This will not work on Realms or servers</li>
+ <li>The following dragons have a chance of spawning as a Halloween variant:</li>
+<ul>
+ <li><i>Night Fury - 50%</i></li>
+ <li><i>Deadly Nadder - 16.6%</i></li>
+ <li><i>Gronckle - 16.6%</i></li>
+ <li><i>Deathgripper - 33.3%</i></li>
+ <li><i>Hobgobbler - 25%</i></li>
+ <li><i>Skrill - 25%</i></li>
+</ul>
+ <li>To make one of these dragons a Halloween variant any time of the year, get close to one and run this command: <code>/event entity @e[c=1,family=httyd_dragon] httyd:halloween_dragon</code>.</li>
+</ul>
+</ul>
+</li>
+<li><b>Changes</b></li>
+<ul>
+ <li>Changed Night Fury, Light Fury, Night Light, Skrill, Thunderdrum, and Monstrous Nightmare models to be more accurate</li>
+ <li>Changed Night Furies to have Variants</li>
+ <li>Changed Night Lights to grow up to adulthood. They have the same behavior as a Night Fury</li>
+ <li>Changed all dragons to drop Raw Dragon Meat on death</li>
+ <li>Changed Typhoomerangs to be tamed with Raw Eel instead of cod and salmon</li>
+ <li>Changed the font in the Book of Dragons to be a custom font made by JWForever5504, <a href="https://fontstruct.com/fontstructions/show/2761114/runic-eld">Runic Eld</a></li>
+ <li>Changed the Dragon Horn to open a custom menu. You can select which nearby dragon to teleport to you, instead of them all teleporting directly to you</li>
+</ul>
+<li><b>Fixes</b></li>
+<ul>
+ <li>Fixed the Dragon Horn not working for some dragons.</li>
+ <li>Fixed dragons not being able to fly out of water.</li>
+<ul>
+ <li><i>Dev Note: Despite our best attempts, this fix will only affect new dragons. Existing dragons will still get stuck in water. This is caused by an issue with Bedrock Edition that causes some changes to entity behavior to not be changed on existing mobs. We are very sorry for the inconvenience.</i></li>
+</ul>
+</ul>
+<li><b>Known Issues</b></li>
+<ul>
+ <li>Dragons that were tamed as a baby cannot breed. We are well aware of this issue and have been trying to fix this for months</li>
+ <li>Most dragons do not float. Until we fix this issue, dragons will not drown.</li>
+ <li>Some dragons are much smaller than they are in the franchise. This is due to a Bedrock Edition bug that doesn't allow rideable mobs to be larger than a certain size in most situations. Please upvote <a href="https://bugs.mojang.com/browse/MCPE-211666">MCPE-211666</a> to get this bug fixed.</li>
+</ul>
+</ul>
+</ul>
+</ul>
 </details>

@@ -89,6 +89,6 @@ According to the Oxford English Dictionary, **Canon**, when used to describe a w
 - Windstriker<br>
 <br><br>
 **Age of Berk currently contains:**<br>
-- 22 Canon dragons<br>
+- 26 Canon dragons<br>
 - 2 Non-Canon dragons<br>
 The goal is to eventually add all 65 Canon dragons, although some may be omitted for technical reasons. Non-Canon dragons are not a priotity, so a specific Non-Canon dragon is unlikely to be added.
