@@ -385,6 +385,10 @@ v2.0.2 - 16 August 2025
 <br>
  v2.1.0 - 31 October 2025
 <ul>
+ <li><b>Age of Berk no longer requires any experimental toggles.</b></li>
+<ul>
+ <li><i>Dev Note: Now that Age of Berk is a "stable" add-on, breaking changes are very unlikely happen upon Minecraft updates, like has happened in the past.</i></li>
+</ul>
 <li><b>Additions</b></li>
 <ul>
  <li>Added Deathgrippers, Speed Stingers, and adult Night Lights</li>
@@ -436,11 +440,13 @@ v2.0.2 - 16 August 2025
 </li>
 <li><b>Changes</b></li>
 <ul>
- <li>Changed Night Fury, Light Fury, Night Light, Skrill, Thunderdrum, and Monstrous Nightmare models to be more accurate</li>
+ <li>Changed Night Fury, Light Fury, Night Light, Skrill, Thunderdrum, Red Death, Sand Wraith, Hobgobbler, and Monstrous Nightmare models to be more accurate</li>
  <li>Changed Night Furies to have Variants</li>
  <li>Changed Night Lights to grow up to adulthood. They have the same behavior as a Night Fury</li>
  <li>Changed all dragons to drop Raw Dragon Meat on death</li>
  <li>Changed Typhoomerangs to be tamed with Raw Eel instead of cod and salmon</li>
+ <li>Changed Red Death Nests to be a much larger and rarer volcano. There are also dragon eggs throughout the nest.</li>
+ <li>Changed Red Death health from 100 hearts to 300 hearts.</li>
  <li>Changed the font in the Book of Dragons to be a custom font made by JWForever5504, <a href="https://fontstruct.com/fontstructions/show/2761114/runic-eld">Runic Eld</a></li>
  <li>Changed the Dragon Horn to open a custom menu. You can select which nearby dragon to teleport to you, instead of them all teleporting directly to you</li>
 </ul>
@@ -454,6 +460,7 @@ v2.0.2 - 16 August 2025
 </ul>
 <li><b>Known Issues</b></li>
 <ul>
+ <li>Speed Stingers have black eyes</li>
  <li>Dragons that were tamed as a baby cannot breed. We are well aware of this issue and have been trying to fix this for months</li>
  <li>Most dragons do not float. Until we fix this issue, dragons will not drown.</li>
  <li>Some dragons are much smaller than they are in the franchise. This is due to a Bedrock Edition bug that doesn't allow rideable mobs to be larger than a certain size in most situations. Please upvote <a href="https://bugs.mojang.com/browse/MCPE-211666">MCPE-211666</a> to get this bug fixed.</li>
