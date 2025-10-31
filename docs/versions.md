@@ -252,7 +252,7 @@ v1.12.0 - 5 December 2024
  <li>Added Incubation Pedestals. Dragon eggs will no longer hatch unless they are placed on a pedestal that has been filled with lava. Incubation can take anywhere from 2 to 8 minutes, depending on the dragon.</li>
  <li>Added Dragon Name Tags. These specialized name tags will open the dragon naming menu that is opened upon training a dragon.</li>
 <ul>
- <li><i>Dev Note: This is both a solution to the issue in which some dragons couldn't be renamed, and a way to make naming dragons more accessible. These name tags are craftable and do not need an anvil to be used.</i>
+ <li><i>Dev Note: This is both a solution to the issue in which some dragons couldn't be renamed, and a way to make naming dragons more accessible. These name tags are craftable and do not need an anvil to be used.</i></li>
 </ul>
 </ul>
 <li><b>Changes</b></li>
@@ -272,7 +272,7 @@ v1.12.0 - 5 December 2024
  <li>Overhauled the Flight System</li>
 <ul>
  <li>Holding Jump will put your dragon in flight mode. Not holding Jump will put your dragon in walk mode. When flying, look where you want to go and you will travel in that direction.</li>
- <li><i>Dev Note: This new flight system allows you to change your camera perspective yourself, instead of locking it to what the default is in the Settings Item's Menu. Because of this, access to the Settings Menu has been removed. Existing Settings items will remain, but they will not be usable, and new ones cannot be acquired by crafting or joining a world.</i>
+ <li><i>Dev Note: This new flight system allows you to change your camera perspective yourself, instead of locking it to what the default is in the Settings Item's Menu. Because of this, access to the Settings Menu has been removed. Existing Settings items will remain, but they will not be usable, and new ones cannot be acquired by crafting or joining a world.</i></li>
 </ul>
 </ul>
 <li><b>Fixes</b></li>
@@ -304,7 +304,7 @@ v2.0.1 - 21 June 2025
  <li>To hover, stop pressing movement buttons while flying</li>
  <li>To stop flying, press jump once or fly into the ground for a few seconds</li>
  <li>Dragons will now lean in the direction they are turning when ridden by a player</li>
- <li><i>Dev Note: I wish to reiterate that we will not be removing this new Flight System, because the positives far outweigh the negatives overall, even if you cannot see it.</i>
+ <li><i>Dev Note: I wish to reiterate that we will not be removing this new Flight System, because the positives far outweigh the negatives overall, even if you cannot see it.</i></li>
 </ul>
 </ul>
 <li><b>Fixes</b></li>
