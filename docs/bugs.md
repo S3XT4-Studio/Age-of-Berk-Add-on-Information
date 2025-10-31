@@ -9,6 +9,6 @@ We have had an issue with people using the form for things other than bug report
 
 **The following bugs are known. Please do not make reports about them, as it will clog up our system and make it more difficult to find unknown bugs.**
 - Dragons that were tamed as a baby cannot breed. We are well aware of this issue and have been trying to fix this for months
-- Most dragons do not float. Until we fix this issue, dragons will not drown. This will be changed as soon as we fix the issue. This also means that dragons cannot fly underwater, and you will have to build a staircase to get them out. (Fixed in dev version)
+- Most dragons do not float. Until we fix this issue, dragons will not drown.
 - Many dragons will not follow their owners. Please use a lead or the dragon horn to move them without riding them.
 - Some dragons are much smaller than they are in the franchise. This is due to a Bedrock Edition bug that doesn't allow rideable mobs to be larger than a certain size in most situations. Please upvote [MCPE-221666](https://bugs.mojang.com/browse/MCPE/issues/MCPE-221666) to get this bug fixed.
