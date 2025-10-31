@@ -152,7 +152,7 @@ This dragon can be found in Dragon Cages
 
 <details>
 <summary>Monstrous Nightmare</summary>
- <img src="assets/nightmare.png" alt="Monstrous Nightmare">
+ <img src="assets/monstrous_nightmare.png" alt="Monstrous Nightmare">
 <br>
 This Stoker Class dragon is protective, but can be tamed at any age using the following foods:
 <br>
