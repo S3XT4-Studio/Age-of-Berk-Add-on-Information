@@ -10,21 +10,16 @@ permalink: /versions
 <br>
 v1.5.0 - 27 February 2024
 <ul>
- <li>Adds Gronckles, Deadly Nadders, Monstrous Nightmares, and Hideous Zipplebacks
+ <li>Adds Gronckles, Deadly Nadders, Monstrous Nightmares, and Hideous Zipplebacks</li>
 <ul>
- <li>Includes sitting, riding, flying, and shooting behavior
- </li>
+ <li>Includes sitting, riding, flying, and shooting behavior</li>
 </ul>
- </li>
  <li>
- Adds Dragon Hunter Ships and Hunter Watchtowers
+ Adds Dragon Hunter Ships and Hunter Watchtowers</li>
 <ul>
- <li>Includes Dragon Cages and Dragon Hunters
- </li>
+ <li>Includes Dragon Cages and Dragon Hunters</li>
 </ul>
- <li>Adds Book of Dragons with an entry for each dragon
- </li>
- </li>
+ <li>Adds Book of Dragons with an entry for each dragon</li>
 </ul>
 <b>HOTFIX</b>
 <br>
@@ -47,16 +42,11 @@ v1.5.2 - 13 August 2024
 <br>
 v1.6.0 - 19 August 2024
 <ul>
- <li>Adds Whispering Deaths
- <li>Adds breeding, baby dragons, and eggs for all dragons except night furies
- <li>Adds Book of Dragons entries for the Night Fury and Whispering Death
- <li>Adds achievements in a separate pack. For now, only available in English. Translation to Portuguese is planned.
- <li>Fixes many bugs
- </li>
- </li>
- </li>
- </li>
- </li>
+ <li>Adds Whispering Deaths</li>
+ <li>Adds breeding, baby dragons, and eggs for all dragons except night furies</li>
+ <li>Adds Book of Dragons entries for the Night Fury and Whispering Death</li>
+ <li>Adds achievements in a separate pack. For now, only available in English. Translation to Portuguese is planned.</li>
+ <li>Fixes many bugs</li>
 </ul>
 <b>HOTFIX</b>
 <br>
@@ -79,14 +69,10 @@ v1.6.2 - 20 August 2024
 <br>
 v1.7.0 - 27 August 2024
 <ul>
- <li>Adds Thunderdrums. No Book of Dragons entry yet
- <li>Adds sounds for many dragons
- <li>Adds the Dragon Blade and Monstrous Nightmare Gel
- <li>Fixes many bugs
- </li>
- </li>
- </li>
- </li>
+ <li>Adds Thunderdrums. No Book of Dragons entry yet</li>
+ <li>Adds sounds for many dragons</li>
+ <li>Adds the Dragon Blade and Monstrous Nightmare Gel</li>
+ <li>Fixes many bugs</li>
 </ul>
 </details>
 <details>
@@ -95,18 +81,12 @@ v1.7.0 - 27 August 2024
 <br>
 v1.8.0 - 6 September 2024
 <ul>
- <li>Adds Sand Wraiths. No Book of Dragons entry yet
- <li>Adds new attack animation for Thunderdrums
- <li>Adds new pottery sherd (Tame) that is found in Watchtowers
- <li>Updates the Watchtower loot to include newer items and more dragon eggs
- <li>Updates some dragon flying and fleeing behavior
- <li>Fixes many bugs
- </li>
- </li>
- </li>
- </li>
- </li>
- </li>
+ <li>Adds Sand Wraiths. No Book of Dragons entry yet</li>
+ <li>Adds new attack animation for Thunderdrums</li>
+ <li>Adds new pottery sherd (Tame) that is found in Watchtowers</li>
+ <li>Updates the Watchtower loot to include newer items and more dragon eggs</li>
+ <li>Updates some dragon flying and fleeing behavior</li>
+ <li>Fixes many bugs</li>
 </ul>
 </details>
 <details>
@@ -115,22 +95,14 @@ v1.8.0 - 6 September 2024
 <br>
 v1.9.0 - 4 November 2024
 <ul>
- <li>Adds Timberjacks. No Book of Dragons entry yet
- <li>Adds new egg models for a few dragons
- <li>Adds dragon horns, which can be used to call all trained dragons within your render distance to your location
- <li>Updates some baby dragon models and animations
- <li>Updates the night fury model
- <li>Updates saddle models for a few dragons
- <li>Fixes many bugs
- <li>The add-on now requires a new experimental toggle. Check out the download page for more information.
- </li>
- </li>
- </li>
- </li>
- </li>
- </li>
- </li>
- </li>
+ <li>Adds Timberjacks. No Book of Dragons entry yet</li>
+ <li>Adds new egg models for a few dragons</li>
+ <li>Adds dragon horns, which can be used to call all trained dragons within your render distance to your location</li>
+ <li>Updates some baby dragon models and animations</li>
+ <li>Updates the night fury model</li>
+ <li>Updates saddle models for a few dragons</li>
+ <li>Fixes many bugs</li>
+ <li>The add-on now requires a new experimental toggle. Check out the download page for more information.</li>
 </ul>
 </details>
 <details>
@@ -139,16 +111,11 @@ v1.9.0 - 4 November 2024
 <br>
 v1.10.0 - 11 November 2024
 <ul>
- <li>Adds Skrills and Flame Whippers. No Book of Dragons entry yet
- <li>Updates and fixes night fury animations
- <li>Adds new settings toggle for camera positioning while flying a dragon. It will default to first person, but you can change it anytime
- <li>Adds baby Night Furies and Night Fury eggs.
- <li>Fixes many bugs
- </li>
- </li>
- </li>
- </li>
- </li>
+ <li>Adds Skrills and Flame Whippers. No Book of Dragons entry yet</li>
+ <li>Updates and fixes night fury animations</li>
+ <li>Adds new settings toggle for camera positioning while flying a dragon. It will default to first person, but you can change it anytime</li>
+ <li>Adds baby Night Furies and Night Fury eggs.</li>
+ <li>Fixes many bugs</li>
 </ul>
 <b>HOTFIX</b>
 <br>
@@ -166,18 +133,12 @@ v1.10.1 - 14 November 2024
 <br>
 v1.11.0 - 22 November 2024
 <ul>
-<li>Added the snow wraith, which can be tamed as a baby. No Book of Dragons entry yet.
-<li>Updated Monstrous Nightmare animations
-<li>Fixed Sand Wraiths not growing up. May only fix new sand wraiths. Pre-existing sand wraiths may not be fixed.
-<li>Fixed lag caused by Thunderdrums
-<li>Fixed dragon flight to not only go up
-<li>Fixed several other bugs
- </li>
- </li>
- </li>
- </li>
- </li>
- </li>
+<li>Added the snow wraith, which can be tamed as a baby. No Book of Dragons entry yet.</li>
+<li>Updated Monstrous Nightmare animations</li>
+<li>Fixed Sand Wraiths not growing up. May only fix new sand wraiths. Pre-existing sand wraiths may not be fixed.</li>
+<li>Fixed lag caused by Thunderdrums</li>
+<li>Fixed dragon flight to not only go up</li>
+<li>Fixed several other bugs</li>
 </ul>
 <b>HOTFIX</b>
 <br>
@@ -294,7 +255,6 @@ v1.12.0 - 5 December 2024
  <li><i>Dev Note: This is both a solution to the issue in which some dragons couldn't be renamed, and a way to make naming dragons more accessible. These name tags are craftable and do not need an anvil to be used.</i>
 </ul>
 </ul>
-</li>
 <li><b>Changes</b></li>
 <ul>
  <li>Changed Hideous Zippleback, Gronckle, and Deadly Nadder models to be more accurate</li>
@@ -373,6 +333,7 @@ v2.0.2 - 16 August 2025
 <li><b>Known Issues</b></li>
 <ul>
  <li>No other bug has been fixed. Any previously known bug is still in the game. We are hard at work on the next update, but this needed to be fixed immediately.</li>
+</ul>
 </ul>
 </ul>
 </details>
