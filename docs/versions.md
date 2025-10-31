@@ -267,7 +267,7 @@ v1.12.0 - 5 December 2024
  <li>Overhauled Night Fury spawning</li>
 <ul>
  <li>Night Furies will now have approximately a 12% chance to spawn near a random player during an unskipped night (1.2% per minute of night) if there is not an untamed night fury near that player.</li>
- <li><i>Dev Note: The old method of spawning night furies made them a little too rare, because only one could exist in a world at once. This new method will try to spawn one just as often as the old method. However, the spawn attempt only succeeded if a player had already found the last one spawned. The new method will succeed in almost every situation.</i>
+ <li><i>Dev Note: The old method of spawning night furies made them a little too rare, because only one could exist in a world at once. This new method will try to spawn one just as often as the old method. However, the spawn attempt only succeeded if a player had already found the last one spawned. The new method will succeed in almost every situation.</i></li>
 </ul>
  <li>Overhauled the Flight System</li>
 <ul>
