@@ -330,9 +330,6 @@ v1.12.0 - 5 December 2024
  <li>Most dragons do not float. Until we fix this issue, dragons will not drown. This will be changed as soon as we fix the issue. This also means that dragons cannot fly underwater, and you will have to build a staircase to get them out.</li>
  <li>Some dragons are much smaller than they are in the franchise. This is due to a Bedrock Edition bug that doesn't allow rideable mobs to be larger than a certain size in most situations. Please upvote <a href="https://bugs.mojang.com/browse/MCPE-211666">MCPE-211666</a> to get this bug fixed.</li>
 </ul>
-</ul>
-</ul>
-</ul>
 <b>HOTFIX</b>
 <br>
 v2.0.1 - 21 June 2025
@@ -437,7 +434,6 @@ v2.0.2 - 16 August 2025
  <li>To make one of these dragons a Halloween variant any time of the year, get close to one and run this command: <code>/event entity @e[c=1,family=httyd_dragon] httyd:halloween_dragon</code>.</li>
 </ul>
 </ul>
-</li>
 <li><b>Changes</b></li>
 <ul>
  <li>Changed Night Fury, Light Fury, Night Light, Skrill, Thunderdrum, Red Death, Sand Wraith, Hobgobbler, and Monstrous Nightmare models to be more accurate</li>
@@ -464,8 +460,6 @@ v2.0.2 - 16 August 2025
  <li>Dragons that were tamed as a baby cannot breed. We are well aware of this issue and have been trying to fix this for months</li>
  <li>Most dragons do not float. Until we fix this issue, dragons will not drown.</li>
  <li>Some dragons are much smaller than they are in the franchise. This is due to a Bedrock Edition bug that doesn't allow rideable mobs to be larger than a certain size in most situations. Please upvote <a href="https://bugs.mojang.com/browse/MCPE-211666">MCPE-211666</a> to get this bug fixed.</li>
-</ul>
-</ul>
 </ul>
 </ul>
 </details>
