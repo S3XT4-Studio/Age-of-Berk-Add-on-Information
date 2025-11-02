@@ -406,6 +406,7 @@ v2.0.2 - 16 August 2025
  <li>Changed Red Death health from 100 hearts to 300 hearts.</li>
  <li>Changed the font in the Book of Dragons to be a custom font made by JWForever5504, <a href="https://fontstruct.com/fontstructions/show/2761114/runic-eld">Runic Eld</a></li>
  <li>Changed the Dragon Horn to open a custom menu. You can select which nearby dragon to teleport to you, instead of them all teleporting directly to you</li>
+ <li>Added Age of Berk to an add-on database, which ensures compatibility with new versions of WAILA.</li>
 </ul>
 <li><b>Fixes</b></li>
 <ul>
